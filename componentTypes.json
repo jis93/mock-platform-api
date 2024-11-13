@@ -1,0 +1,3603 @@
+[
+  {
+    "id": 1,
+    "name": "utilities",
+    "label": "Utilities",
+    "tag": null,
+    "type": "utilities",
+    "parent": null,
+    "picto": null,
+    "required": false,
+    "nature": null,
+    "nature_group": null,
+    "position": 0
+  },
+  {
+    "id": 2,
+    "name": "pieces-annexes",
+    "label": "Annexes",
+    "tag": null,
+    "type": "annexe",
+    "parent":
+    {
+      "id": 1,
+      "name": "utilities",
+      "label": "Utilities",
+      "tag": null,
+      "type": "utilities",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 0
+    },
+    "picto": "house_buildings",
+    "required": false,
+    "nature": null,
+    "nature_group": null,
+    "position": 1
+  },
+  {
+    "id": 3,
+    "name": "mailbox",
+    "label": "Mailbox",
+    "tag": null,
+    "type": "mailbox",
+    "parent":
+    {
+      "id": 1,
+      "name": "utilities",
+      "label": "Utilities",
+      "tag": null,
+      "type": "utilities",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 0
+    },
+    "picto": "mailbox_with_no_mail",
+    "required": false,
+    "nature": null,
+    "nature_group": null,
+    "position": 2
+  },
+  {
+    "id": 4,
+    "name": "meters",
+    "label": "Meters",
+    "tag": null,
+    "type": "meters",
+    "parent":
+    {
+      "id": 1,
+      "name": "utilities",
+      "label": "Utilities",
+      "tag": null,
+      "type": "utilities",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 0
+    },
+    "picto": "pager",
+    "required": false,
+    "nature": null,
+    "nature_group": null,
+    "position": 3
+  },
+  {
+    "id": 5,
+    "name": "maintenance",
+    "label": "Maintenance",
+    "tag": null,
+    "type": "maintenance",
+    "parent":
+    {
+      "id": 1,
+      "name": "utilities",
+      "label": "Utilities",
+      "tag": null,
+      "type": "utilities",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 0
+    },
+    "picto": "wrench",
+    "required": false,
+    "nature": null,
+    "nature_group": null,
+    "position": 4
+  },
+  {
+    "id": 6,
+    "name": "documents",
+    "label": "Documents",
+    "tag": null,
+    "type": "documents",
+    "parent":
+    {
+      "id": 1,
+      "name": "utilities",
+      "label": "Utilities",
+      "tag": null,
+      "type": "utilities",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 0
+    },
+    "picto": "page_facing_up",
+    "required": false,
+    "nature": null,
+    "nature_group": null,
+    "position": 5
+  },
+  {
+    "id": 27,
+    "name": "keys",
+    "label": "Keys",
+    "tag": null,
+    "type": "key",
+    "parent":
+    {
+      "id": 1,
+      "name": "utilities",
+      "label": "Utilities",
+      "tag": null,
+      "type": "utilities",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 0
+    },
+    "picto": "key",
+    "required": false,
+    "nature": null,
+    "nature_group": null,
+    "position": 6
+  },
+  {
+    "id": 7,
+    "name": "detecteur-de-fumee",
+    "label": "Détecteur(s) : Fumée / Monoxyde",
+    "tag": null,
+    "type": "detecteur-de-fumee",
+    "parent":
+    {
+      "id": 1,
+      "name": "utilities",
+      "label": "Utilities",
+      "tag": null,
+      "type": "utilities",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 0
+    },
+    "picto": "fire",
+    "required": false,
+    "nature": null,
+    "nature_group": null,
+    "position": 7
+  },
+  {
+    "id": 19,
+    "name": "room-family",
+    "label": "Familles",
+    "tag": null,
+    "type": "room-family",
+    "parent": null,
+    "picto": null,
+    "required": false,
+    "nature": null,
+    "nature_group": null,
+    "position": 1
+  },
+  {
+    "id": 60,
+    "name": "built-exterior",
+    "label": "Façade / végétaux",
+    "tag": null,
+    "type": "room-family",
+    "parent":
+    {
+      "id": 19,
+      "name": "room-family",
+      "label": "Familles",
+      "tag": null,
+      "type": "room-family",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 1
+    },
+    "picto": "bricks",
+    "required": false,
+    "nature": "exterior",
+    "nature_group":
+    {
+      "id": 5,
+      "name": "exterior",
+      "label": "Exterior"
+    },
+    "position": 1
+  },
+  {
+    "id": 58,
+    "name": "built-wet",
+    "label": "Built",
+    "tag": null,
+    "type": "room-family",
+    "parent":
+    {
+      "id": 19,
+      "name": "room-family",
+      "label": "Familles",
+      "tag": null,
+      "type": "room-family",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 1
+    },
+    "picto": "bricks",
+    "required": true,
+    "nature": "water-room",
+    "nature_group":
+    {
+      "id": 2,
+      "name": "wet-room",
+      "label": "Wet room"
+    },
+    "position": 1
+  },
+  {
+    "id": 16,
+    "name": "built",
+    "label": "Built",
+    "tag": null,
+    "type": "room-family",
+    "parent":
+    {
+      "id": 19,
+      "name": "room-family",
+      "label": "Familles",
+      "tag": null,
+      "type": "room-family",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 1
+    },
+    "picto": "bricks",
+    "required": false,
+    "nature": "basic",
+    "nature_group":
+    {
+      "id": 1,
+      "name": "basic",
+      "label": "Base"
+    },
+    "position": 1
+  },
+  {
+    "id": 55,
+    "name": "built-esc",
+    "label": "Built",
+    "tag": null,
+    "type": "room-family",
+    "parent":
+    {
+      "id": 19,
+      "name": "room-family",
+      "label": "Familles",
+      "tag": null,
+      "type": "room-family",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 1
+    },
+    "picto": "bricks",
+    "required": false,
+    "nature": "stairs",
+    "nature_group":
+    {
+      "id": 3,
+      "name": "stairs",
+      "label": "Escalier"
+    },
+    "position": 1
+  },
+  {
+    "id": 59,
+    "name": "built-annexe",
+    "label": "Built",
+    "tag": null,
+    "type": "room-family",
+    "parent":
+    {
+      "id": 19,
+      "name": "room-family",
+      "label": "Familles",
+      "tag": null,
+      "type": "room-family",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 1
+    },
+    "picto": "bricks",
+    "required": false,
+    "nature": "annexe",
+    "nature_group":
+    {
+      "id": 4,
+      "name": "annexe",
+      "label": "Annexe"
+    },
+    "position": 1
+  },
+  {
+    "id": 77,
+    "name": "bati-kitchen",
+    "label": "Built",
+    "tag": null,
+    "type": "room-family",
+    "parent":
+    {
+      "id": 19,
+      "name": "room-family",
+      "label": "Familles",
+      "tag": null,
+      "type": "room-family",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 1
+    },
+    "picto": "bricks",
+    "required": true,
+    "nature": "kitchen",
+    "nature_group":
+    {
+      "id": 8,
+      "name": "kitchen",
+      "label": "Kitchen"
+    },
+    "position": 1
+  },
+  {
+    "id": 56,
+    "name": "openings-stairs",
+    "label": "Ouvertures",
+    "tag": null,
+    "type": "room-family",
+    "parent":
+    {
+      "id": 19,
+      "name": "room-family",
+      "label": "Familles",
+      "tag": null,
+      "type": "room-family",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 1
+    },
+    "picto": "window",
+    "required": false,
+    "nature": "stairs",
+    "nature_group":
+    {
+      "id": 3,
+      "name": "stairs",
+      "label": "Escalier"
+    },
+    "position": 2
+  },
+  {
+    "id": 61,
+    "name": "openings-hall",
+    "label": "Ouvertures",
+    "tag": null,
+    "type": "room-family",
+    "parent":
+    {
+      "id": 19,
+      "name": "room-family",
+      "label": "Familles",
+      "tag": null,
+      "type": "room-family",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 1
+    },
+    "picto": "window",
+    "required": false,
+    "nature": "hall",
+    "nature_group":
+    {
+      "id": 6,
+      "name": "hall",
+      "label": "Hall Couloir"
+    },
+    "position": 2
+  },
+  {
+    "id": 62,
+    "name": "openings-wc",
+    "label": "Ouvertures",
+    "tag": null,
+    "type": "room-family",
+    "parent":
+    {
+      "id": 19,
+      "name": "room-family",
+      "label": "Familles",
+      "tag": null,
+      "type": "room-family",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 1
+    },
+    "picto": "window",
+    "required": false,
+    "nature": "wc",
+    "nature_group":
+    {
+      "id": 10,
+      "name": "wc",
+      "label": "WC"
+    },
+    "position": 2
+  },
+  {
+    "id": 17,
+    "name": "openings",
+    "label": "Ouvertures",
+    "tag": null,
+    "type": "room-family",
+    "parent":
+    {
+      "id": 19,
+      "name": "room-family",
+      "label": "Familles",
+      "tag": null,
+      "type": "room-family",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 1
+    },
+    "picto": "window",
+    "required": false,
+    "nature": "basic",
+    "nature_group":
+    {
+      "id": 1,
+      "name": "basic",
+      "label": "Base"
+    },
+    "position": 2
+  },
+  {
+    "id": 63,
+    "name": "openings-exterior",
+    "label": "Ouvertures",
+    "tag": null,
+    "type": "room-family",
+    "parent":
+    {
+      "id": 19,
+      "name": "room-family",
+      "label": "Familles",
+      "tag": null,
+      "type": "room-family",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 1
+    },
+    "picto": "window",
+    "required": false,
+    "nature": "exterior",
+    "nature_group":
+    {
+      "id": 5,
+      "name": "exterior",
+      "label": "Extérieur"
+    },
+    "position": 2
+  },
+  {
+    "id": 64,
+    "name": "openings-garden",
+    "label": "Ouvertures",
+    "tag": null,
+    "type": "room-family",
+    "parent":
+    {
+      "id": 19,
+      "name": "room-family",
+      "label": "Familles",
+      "tag": null,
+      "type": "room-family",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 1
+    },
+    "picto": "window",
+    "required": false,
+    "nature": "garden",
+    "nature_group":
+    {
+      "id": 7,
+      "name": "garden",
+      "label": "Jardin"
+    },
+    "position": 2
+  },
+  {
+    "id": 18,
+    "name": "electricity",
+    "label": "Electricité",
+    "tag": null,
+    "type": "room-family",
+    "parent":
+    {
+      "id": 19,
+      "name": "room-family",
+      "label": "Familles",
+      "tag": null,
+      "type": "room-family",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 1
+    },
+    "picto": "zap",
+    "required": false,
+    "nature": "basic",
+    "nature_group":
+    {
+      "id": 1,
+      "name": "basic",
+      "label": "Base"
+    },
+    "position": 3
+  },
+  {
+    "id": 65,
+    "name": "electricity-ext",
+    "label": "Electricité",
+    "tag": null,
+    "type": "room-family",
+    "parent":
+    {
+      "id": 19,
+      "name": "room-family",
+      "label": "Familles",
+      "tag": null,
+      "type": "room-family",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 1
+    },
+    "picto": "zap",
+    "required": false,
+    "nature": "exterior",
+    "nature_group":
+    {
+      "id": 5,
+      "name": "exterior",
+      "label": "Extérieur"
+    },
+    "position": 3
+  },
+  {
+    "id": 69,
+    "name": "plumbing-wc",
+    "label": "Plomberie",
+    "tag": null,
+    "type": "room-family",
+    "parent":
+    {
+      "id": 19,
+      "name": "room-family",
+      "label": "Familles",
+      "tag": null,
+      "type": "room-family",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 1
+    },
+    "picto": "bathtub",
+    "required": false,
+    "nature": "wc",
+    "nature_group":
+    {
+      "id": 10,
+      "name": "wc",
+      "label": "WC"
+    },
+    "position": 4
+  },
+  {
+    "id": 20,
+    "name": "plumbing",
+    "label": "Plomberie",
+    "tag": null,
+    "type": "room-family",
+    "parent":
+    {
+      "id": 19,
+      "name": "room-family",
+      "label": "Familles",
+      "tag": null,
+      "type": "room-family",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 1
+    },
+    "picto": "bathtub",
+    "required": false,
+    "nature": "basic",
+    "nature_group":
+    {
+      "id": 1,
+      "name": "basic",
+      "label": "Base"
+    },
+    "position": 4
+  },
+  {
+    "id": 66,
+    "name": "plumbing-kitchen",
+    "label": "Plomberie",
+    "tag": null,
+    "type": "room-family",
+    "parent":
+    {
+      "id": 19,
+      "name": "room-family",
+      "label": "Familles",
+      "tag": null,
+      "type": "room-family",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 1
+    },
+    "picto": "bathtub",
+    "required": false,
+    "nature": "kitchen",
+    "nature_group":
+    {
+      "id": 8,
+      "name": "kitchen",
+      "label": "Kitchen"
+    },
+    "position": 4
+  },
+  {
+    "id": 67,
+    "name": "plumbing-sdb",
+    "label": "Plomberie",
+    "tag": null,
+    "type": "room-family",
+    "parent":
+    {
+      "id": 19,
+      "name": "room-family",
+      "label": "Familles",
+      "tag": null,
+      "type": "room-family",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 1
+    },
+    "picto": "bathtub",
+    "required": false,
+    "nature": "bathroom",
+    "nature_group":
+    {
+      "id": 9,
+      "name": "bathroom",
+      "label": "SDB"
+    },
+    "position": 4
+  },
+  {
+    "id": 70,
+    "name": "plumbing-exterior",
+    "label": "Plomberie",
+    "tag": null,
+    "type": "room-family",
+    "parent":
+    {
+      "id": 19,
+      "name": "room-family",
+      "label": "Familles",
+      "tag": null,
+      "type": "room-family",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 1
+    },
+    "picto": "bathtub",
+    "required": false,
+    "nature": "exterior",
+    "nature_group":
+    {
+      "id": 5,
+      "name": "exterior",
+      "label": "Extérieur"
+    },
+    "position": 4
+  },
+  {
+    "id": 71,
+    "name": "plumbing-garden",
+    "label": "Plomberie",
+    "tag": null,
+    "type": "room-family",
+    "parent":
+    {
+      "id": 19,
+      "name": "room-family",
+      "label": "Familles",
+      "tag": null,
+      "type": "room-family",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 1
+    },
+    "picto": "bathtub",
+    "required": false,
+    "nature": "garden",
+    "nature_group":
+    {
+      "id": 7,
+      "name": "garden",
+      "label": "Jardin"
+    },
+    "position": 4
+  },
+  {
+    "id": 72,
+    "name": "heater-exterior",
+    "label": "Chauffage / Ventilation",
+    "tag": null,
+    "type": "room-family",
+    "parent":
+    {
+      "id": 19,
+      "name": "room-family",
+      "label": "Familles",
+      "tag": null,
+      "type": "room-family",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 1
+    },
+    "picto": "thermometer",
+    "required": false,
+    "nature": "exterior",
+    "nature_group":
+    {
+      "id": 5,
+      "name": "exterior",
+      "label": "Extérieur"
+    },
+    "position": 5
+  },
+  {
+    "id": 21,
+    "name": "heater",
+    "label": "Chauffage / Ventilation",
+    "tag": null,
+    "type": "room-family",
+    "parent":
+    {
+      "id": 19,
+      "name": "room-family",
+      "label": "Familles",
+      "tag": null,
+      "type": "room-family",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 1
+    },
+    "picto": "thermometer",
+    "required": false,
+    "nature": "basic",
+    "nature_group":
+    {
+      "id": 1,
+      "name": "basic",
+      "label": "Base"
+    },
+    "position": 5
+  },
+  {
+    "id": 73,
+    "name": "electromenager-bath",
+    "label": "Home appliance",
+    "tag": null,
+    "type": "room-family",
+    "parent":
+    {
+      "id": 19,
+      "name": "room-family",
+      "label": "Familles",
+      "tag": null,
+      "type": "room-family",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 1
+    },
+    "picto": "control_knobs",
+    "required": false,
+    "nature": "wet-room",
+    "nature_group":
+    {
+      "id": 2,
+      "name": "wet-room",
+      "label": "Wet room"
+    },
+    "position": 6
+  },
+  {
+    "id": 22,
+    "name": "home-appliance",
+    "label": "Home appliance",
+    "tag": null,
+    "type": "room-family",
+    "parent":
+    {
+      "id": 19,
+      "name": "room-family",
+      "label": "Familles",
+      "tag": null,
+      "type": "room-family",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 1
+    },
+    "picto": "control_knobs",
+    "required": false,
+    "nature": "kitchen",
+    "nature_group":
+    {
+      "id": 8,
+      "name": "kitchen",
+      "label": "Kitchen"
+    },
+    "position": 6
+  },
+  {
+    "id": 75,
+    "name": "amenagement-ext",
+    "label": "Aménagements",
+    "tag": null,
+    "type": "room-family",
+    "parent":
+    {
+      "id": 19,
+      "name": "room-family",
+      "label": "Familles",
+      "tag": null,
+      "type": "room-family",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 1
+    },
+    "picto": "file_cabinet",
+    "required": false,
+    "nature": "exterior",
+    "nature_group":
+    {
+      "id": 5,
+      "name": "exterior",
+      "label": "Extérieur"
+    },
+    "position": 7
+  },
+  {
+    "id": 23,
+    "name": "amenagement-base",
+    "label": "Aménagement",
+    "tag": null,
+    "type": "room-family",
+    "parent":
+    {
+      "id": 19,
+      "name": "room-family",
+      "label": "Familles",
+      "tag": null,
+      "type": "room-family",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 1
+    },
+    "picto": "file_cabinet",
+    "required": false,
+    "nature": "basic",
+    "nature_group":
+    {
+      "id": 1,
+      "name": "basic",
+      "label": "Base"
+    },
+    "position": 7
+  },
+  {
+    "id": 74,
+    "name": "amenagement-bath",
+    "label": "Aménagement",
+    "tag": null,
+    "type": "room-family",
+    "parent":
+    {
+      "id": 19,
+      "name": "room-family",
+      "label": "Familles",
+      "tag": null,
+      "type": "room-family",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 1
+    },
+    "picto": "file_cabinet",
+    "required": false,
+    "nature": "wet-room",
+    "nature_group":
+    {
+      "id": 2,
+      "name": "wet-room",
+      "label": "Wet room"
+    },
+    "position": 7
+  },
+  {
+    "id": 24,
+    "name": "furniture",
+    "label": "Inventaire pour meublé",
+    "tag": null,
+    "type": "room-family",
+    "parent":
+    {
+      "id": 19,
+      "name": "room-family",
+      "label": "Familles",
+      "tag": null,
+      "type": "room-family",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 1
+    },
+    "picto": "bed",
+    "required": false,
+    "nature": "basic",
+    "nature_group":
+    {
+      "id": 1,
+      "name": "basic",
+      "label": "Base"
+    },
+    "position": 9
+  },
+  {
+    "id": 10,
+    "name": "rooms",
+    "label": "Pièces",
+    "tag": null,
+    "type": "room-fam",
+    "parent": null,
+    "picto": null,
+    "required": false,
+    "nature": null,
+    "nature_group": null,
+    "position": 2
+  },
+  {
+    "id": 11,
+    "name": "kitchen",
+    "label": "KITCHEN",
+    "tag": null,
+    "type": "room",
+    "parent":
+    {
+      "id": 10,
+      "name": "rooms",
+      "label": "Pièces",
+      "tag": null,
+      "type": "room-fam",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 2
+    },
+    "room_families":
+    [
+      {
+        "id": 77,
+        "name": "bati-kitchen",
+        "label": "Built",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bricks",
+        "required": true,
+        "nature": "kitchen",
+        "position": 1
+      },
+      {
+        "id": 17,
+        "name": "openings",
+        "label": "Ouvertures",
+        "tag": null,
+        "type": "room-family",
+        "picto": "window",
+        "required": false,
+        "nature": "basic",
+        "position": 2
+      },
+      {
+        "id": 18,
+        "name": "electricity",
+        "label": "Electricité",
+        "tag": null,
+        "type": "room-family",
+        "picto": "zap",
+        "required": false,
+        "nature": "basic",
+        "position": 3
+      },
+      {
+        "id": 66,
+        "name": "plumbing-kitchen",
+        "label": "Plomberie",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bathtub",
+        "required": false,
+        "nature": "kitchen",
+        "position": 4
+      },
+      {
+        "id": 21,
+        "name": "heater",
+        "label": "Chauffage / Ventilation",
+        "tag": null,
+        "type": "room-family",
+        "picto": "thermometer",
+        "required": false,
+        "nature": "basic",
+        "position": 5
+      },
+      {
+        "id": 22,
+        "name": "home-appliance",
+        "label": "Home appliance",
+        "tag": null,
+        "type": "room-family",
+        "picto": "control_knobs",
+        "required": false,
+        "nature": "kitchen",
+        "position": 6
+      },
+      {
+        "id": 23,
+        "name": "amenagement-base",
+        "label": "Aménagement",
+        "tag": null,
+        "type": "room-family",
+        "picto": "file_cabinet",
+        "required": false,
+        "nature": "basic",
+        "position": 7
+      },
+      {
+        "id": 24,
+        "name": "furniture",
+        "label": "Inventaire pour meublé",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bed",
+        "required": false,
+        "nature": "basic",
+        "position": 9
+      }
+    ],
+    "picto": "ico-kitchen-s.png",
+    "required": false,
+    "nature": "wet-room",
+    "nature_group":
+    {
+      "id": 2,
+      "name": "wet-room",
+      "label": "Wet room"
+    },
+    "position": 10
+  },
+  {
+    "id": 30,
+    "name": "kitchen_living_room",
+    "label": "KITCHEN + LIVING ROOM",
+    "tag": null,
+    "type": "room",
+    "parent":
+    {
+      "id": 10,
+      "name": "rooms",
+      "label": "Pièces",
+      "tag": null,
+      "type": "room-fam",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 2
+    },
+    "room_families":
+    [
+      {
+        "id": 77,
+        "name": "bati-kitchen",
+        "label": "Built",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bricks",
+        "required": true,
+        "nature": "kitchen",
+        "position": 1
+      },
+      {
+        "id": 17,
+        "name": "openings",
+        "label": "Ouvertures",
+        "tag": null,
+        "type": "room-family",
+        "picto": "window",
+        "required": false,
+        "nature": "basic",
+        "position": 2
+      },
+      {
+        "id": 18,
+        "name": "electricity",
+        "label": "Electricité",
+        "tag": null,
+        "type": "room-family",
+        "picto": "zap",
+        "required": false,
+        "nature": "basic",
+        "position": 3
+      },
+      {
+        "id": 66,
+        "name": "plumbing-kitchen",
+        "label": "Plomberie",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bathtub",
+        "required": false,
+        "nature": "kitchen",
+        "position": 4
+      },
+      {
+        "id": 21,
+        "name": "heater",
+        "label": "Chauffage / Ventilation",
+        "tag": null,
+        "type": "room-family",
+        "picto": "thermometer",
+        "required": false,
+        "nature": "basic",
+        "position": 5
+      },
+      {
+        "id": 22,
+        "name": "home-appliance",
+        "label": "Home appliance",
+        "tag": null,
+        "type": "room-family",
+        "picto": "control_knobs",
+        "required": false,
+        "nature": "kitchen",
+        "position": 6
+      },
+      {
+        "id": 23,
+        "name": "amenagement-base",
+        "label": "Aménagement",
+        "tag": null,
+        "type": "room-family",
+        "picto": "file_cabinet",
+        "required": false,
+        "nature": "basic",
+        "position": 7
+      },
+      {
+        "id": 24,
+        "name": "furniture",
+        "label": "Inventaire pour meublé",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bed",
+        "required": false,
+        "nature": "basic",
+        "position": 9
+      }
+    ],
+    "picto": "cuisine-sejour.png",
+    "required": false,
+    "nature": null,
+    "nature_group": null,
+    "position": 20
+  },
+  {
+    "id": 15,
+    "name": "livingroom",
+    "label": "LIVING ROOM",
+    "tag": null,
+    "type": "room",
+    "parent":
+    {
+      "id": 10,
+      "name": "rooms",
+      "label": "Pièces",
+      "tag": null,
+      "type": "room-fam",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 2
+    },
+    "room_families":
+    [
+      {
+        "id": 16,
+        "name": "built",
+        "label": "Built",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bricks",
+        "required": false,
+        "nature": "basic",
+        "position": 1
+      },
+      {
+        "id": 17,
+        "name": "openings",
+        "label": "Ouvertures",
+        "tag": null,
+        "type": "room-family",
+        "picto": "window",
+        "required": false,
+        "nature": "basic",
+        "position": 2
+      },
+      {
+        "id": 18,
+        "name": "electricity",
+        "label": "Electricité",
+        "tag": null,
+        "type": "room-family",
+        "picto": "zap",
+        "required": false,
+        "nature": "basic",
+        "position": 3
+      },
+      {
+        "id": 20,
+        "name": "plumbing",
+        "label": "Plomberie",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bathtub",
+        "required": false,
+        "nature": "basic",
+        "position": 4
+      },
+      {
+        "id": 21,
+        "name": "heater",
+        "label": "Chauffage / Ventilation",
+        "tag": null,
+        "type": "room-family",
+        "picto": "thermometer",
+        "required": false,
+        "nature": "basic",
+        "position": 5
+      },
+      {
+        "id": 73,
+        "name": "electromenager-bath",
+        "label": "Home appliance",
+        "tag": null,
+        "type": "room-family",
+        "picto": "control_knobs",
+        "required": false,
+        "nature": "wet-room",
+        "position": 6
+      },
+      {
+        "id": 23,
+        "name": "amenagement-base",
+        "label": "Aménagement",
+        "tag": null,
+        "type": "room-family",
+        "picto": "file_cabinet",
+        "required": false,
+        "nature": "basic",
+        "position": 7
+      },
+      {
+        "id": 24,
+        "name": "furniture",
+        "label": "Inventaire pour meublé",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bed",
+        "required": false,
+        "nature": "basic",
+        "position": 9
+      }
+    ],
+    "picto": "ico-livingroom-s.png",
+    "required": false,
+    "nature": null,
+    "nature_group": null,
+    "position": 30
+  },
+  {
+    "id": 29,
+    "name": "clearance",
+    "label": "CLEARANCE",
+    "tag": null,
+    "type": "room",
+    "parent":
+    {
+      "id": 10,
+      "name": "rooms",
+      "label": "Pièces",
+      "tag": null,
+      "type": "room-fam",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 2
+    },
+    "room_families":
+    [
+      {
+        "id": 16,
+        "name": "built",
+        "label": "Built",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bricks",
+        "required": false,
+        "nature": "basic",
+        "position": 1
+      },
+      {
+        "id": 17,
+        "name": "openings",
+        "label": "Ouvertures",
+        "tag": null,
+        "type": "room-family",
+        "picto": "window",
+        "required": false,
+        "nature": "basic",
+        "position": 2
+      },
+      {
+        "id": 18,
+        "name": "electricity",
+        "label": "Electricité",
+        "tag": null,
+        "type": "room-family",
+        "picto": "zap",
+        "required": false,
+        "nature": "basic",
+        "position": 3
+      },
+      {
+        "id": 20,
+        "name": "plumbing",
+        "label": "Plomberie",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bathtub",
+        "required": false,
+        "nature": "basic",
+        "position": 4
+      },
+      {
+        "id": 21,
+        "name": "heater",
+        "label": "Chauffage / Ventilation",
+        "tag": null,
+        "type": "room-family",
+        "picto": "thermometer",
+        "required": false,
+        "nature": "basic",
+        "position": 5
+      },
+      {
+        "id": 73,
+        "name": "electromenager-bath",
+        "label": "Home appliance",
+        "tag": null,
+        "type": "room-family",
+        "picto": "control_knobs",
+        "required": false,
+        "nature": "wet-room",
+        "position": 6
+      },
+      {
+        "id": 23,
+        "name": "amenagement-base",
+        "label": "Aménagement",
+        "tag": null,
+        "type": "room-family",
+        "picto": "file_cabinet",
+        "required": false,
+        "nature": "basic",
+        "position": 7
+      },
+      {
+        "id": 24,
+        "name": "furniture",
+        "label": "Inventaire pour meublé",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bed",
+        "required": false,
+        "nature": "basic",
+        "position": 9
+      }
+    ],
+    "picto": "degagement.png",
+    "required": false,
+    "nature": null,
+    "nature_group": null,
+    "position": 40
+  },
+  {
+    "id": 14,
+    "name": "bedroom",
+    "label": "BEDROOM",
+    "tag": null,
+    "type": "room",
+    "parent":
+    {
+      "id": 10,
+      "name": "rooms",
+      "label": "Pièces",
+      "tag": null,
+      "type": "room-fam",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 2
+    },
+    "room_families":
+    [
+      {
+        "id": 16,
+        "name": "built",
+        "label": "Built",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bricks",
+        "required": false,
+        "nature": "basic",
+        "position": 1
+      },
+      {
+        "id": 17,
+        "name": "openings",
+        "label": "Ouvertures",
+        "tag": null,
+        "type": "room-family",
+        "picto": "window",
+        "required": false,
+        "nature": "basic",
+        "position": 2
+      },
+      {
+        "id": 18,
+        "name": "electricity",
+        "label": "Electricité",
+        "tag": null,
+        "type": "room-family",
+        "picto": "zap",
+        "required": false,
+        "nature": "basic",
+        "position": 3
+      },
+      {
+        "id": 20,
+        "name": "plumbing",
+        "label": "Plomberie",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bathtub",
+        "required": false,
+        "nature": "basic",
+        "position": 4
+      },
+      {
+        "id": 21,
+        "name": "heater",
+        "label": "Chauffage / Ventilation",
+        "tag": null,
+        "type": "room-family",
+        "picto": "thermometer",
+        "required": false,
+        "nature": "basic",
+        "position": 5
+      },
+      {
+        "id": 73,
+        "name": "electromenager-bath",
+        "label": "Home appliance",
+        "tag": null,
+        "type": "room-family",
+        "picto": "control_knobs",
+        "required": false,
+        "nature": "wet-room",
+        "position": 6
+      },
+      {
+        "id": 23,
+        "name": "amenagement-base",
+        "label": "Aménagement",
+        "tag": null,
+        "type": "room-family",
+        "picto": "file_cabinet",
+        "required": false,
+        "nature": "basic",
+        "position": 7
+      },
+      {
+        "id": 24,
+        "name": "furniture",
+        "label": "Inventaire pour meublé",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bed",
+        "required": false,
+        "nature": "basic",
+        "position": 9
+      }
+    ],
+    "picto": "ico-room-s.png",
+    "required": false,
+    "nature": null,
+    "nature_group": null,
+    "position": 45
+  },
+  {
+    "id": 12,
+    "name": "bathroom",
+    "label": "BATHROOM",
+    "tag": null,
+    "type": "room",
+    "parent":
+    {
+      "id": 10,
+      "name": "rooms",
+      "label": "Pièces",
+      "tag": null,
+      "type": "room-fam",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 2
+    },
+    "room_families":
+    [
+      {
+        "id": 58,
+        "name": "built-wet",
+        "label": "Built",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bricks",
+        "required": true,
+        "nature": "wet-room",
+        "position": 1
+      },
+      {
+        "id": 62,
+        "name": "openings-wc",
+        "label": "Ouvertures",
+        "tag": null,
+        "type": "room-family",
+        "picto": "window",
+        "required": false,
+        "nature": "wc",
+        "position": 2
+      },
+      {
+        "id": 18,
+        "name": "electricity",
+        "label": "Electricité",
+        "tag": null,
+        "type": "room-family",
+        "picto": "zap",
+        "required": false,
+        "nature": "basic",
+        "position": 3
+      },
+      {
+        "id": 67,
+        "name": "plumbing-sdb",
+        "label": "Plomberie",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bathtub",
+        "required": false,
+        "nature": "bathroom",
+        "position": 4
+      },
+      {
+        "id": 21,
+        "name": "heater",
+        "label": "Chauffage / Ventilation",
+        "tag": null,
+        "type": "room-family",
+        "picto": "thermometer",
+        "required": false,
+        "nature": "basic",
+        "position": 5
+      },
+      {
+        "id": 73,
+        "name": "electromenager-bath",
+        "label": "Home appliance",
+        "tag": null,
+        "type": "room-family",
+        "picto": "control_knobs",
+        "required": false,
+        "nature": "wet-room",
+        "position": 6
+      },
+      {
+        "id": 74,
+        "name": "amenagement-bath",
+        "label": "Aménagement",
+        "tag": null,
+        "type": "room-family",
+        "picto": "file_cabinet",
+        "required": false,
+        "nature": "wet-room",
+        "position": 7
+      },
+      {
+        "id": 24,
+        "name": "furniture",
+        "label": "Inventaire pour meublé",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bed",
+        "required": false,
+        "nature": "basic",
+        "position": 9
+      }
+    ],
+    "picto": "ico-bathroom-s.png",
+    "required": false,
+    "nature": "wet-room",
+    "nature_group":
+    {
+      "id": 2,
+      "name": "wet-room",
+      "label": "Wet room"
+    },
+    "position": 50
+  },
+  {
+    "id": 31,
+    "name": "toilet",
+    "label": "WC",
+    "tag": null,
+    "type": "room",
+    "parent":
+    {
+      "id": 10,
+      "name": "rooms",
+      "label": "Pièces",
+      "tag": null,
+      "type": "room-fam",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 2
+    },
+    "room_families":
+    [
+      {
+        "id": 58,
+        "name": "built-wet",
+        "label": "Built",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bricks",
+        "required": true,
+        "nature": "wet-room",
+        "position": 1
+      },
+      {
+        "id": 62,
+        "name": "openings-wc",
+        "label": "Ouvertures",
+        "tag": null,
+        "type": "room-family",
+        "picto": "window",
+        "required": false,
+        "nature": "wc",
+        "position": 2
+      },
+      {
+        "id": 18,
+        "name": "electricity",
+        "label": "Electricité",
+        "tag": null,
+        "type": "room-family",
+        "picto": "zap",
+        "required": false,
+        "nature": "basic",
+        "position": 3
+      },
+      {
+        "id": 69,
+        "name": "plumbing-wc",
+        "label": "Plomberie",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bathtub",
+        "required": false,
+        "nature": "wc",
+        "position": 4
+      },
+      {
+        "id": 21,
+        "name": "heater",
+        "label": "Chauffage / Ventilation",
+        "tag": null,
+        "type": "room-family",
+        "picto": "thermometer",
+        "required": false,
+        "nature": "basic",
+        "position": 5
+      },
+      {
+        "id": 73,
+        "name": "electromenager-bath",
+        "label": "Home appliance",
+        "tag": null,
+        "type": "room-family",
+        "picto": "control_knobs",
+        "required": false,
+        "nature": "wet-room",
+        "position": 6
+      },
+      {
+        "id": 74,
+        "name": "amenagement-bath",
+        "label": "Aménagement",
+        "tag": null,
+        "type": "room-family",
+        "picto": "file_cabinet",
+        "required": false,
+        "nature": "wet-room",
+        "position": 7
+      },
+      {
+        "id": 24,
+        "name": "furniture",
+        "label": "Inventaire pour meublé",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bed",
+        "required": false,
+        "nature": "basic",
+        "position": 9
+      }
+    ],
+    "picto": "wc.png",
+    "required": false,
+    "nature": "wet-room",
+    "nature_group":
+    {
+      "id": 2,
+      "name": "wet-room",
+      "label": "Wet room"
+    },
+    "position": 60
+  },
+  {
+    "id": 9,
+    "name": "entrance",
+    "label": "ACCESS / ENTRANCE",
+    "tag": null,
+    "type": "room",
+    "parent":
+    {
+      "id": 10,
+      "name": "rooms",
+      "label": "Pièces",
+      "tag": null,
+      "type": "room-fam",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 2
+    },
+    "room_families":
+    [
+      {
+        "id": 16,
+        "name": "built",
+        "label": "Built",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bricks",
+        "required": false,
+        "nature": "basic",
+        "position": 1
+      },
+      {
+        "id": 61,
+        "name": "openings-hall",
+        "label": "Ouvertures",
+        "tag": null,
+        "type": "room-family",
+        "picto": "window",
+        "required": false,
+        "nature": "hall",
+        "position": 2
+      },
+      {
+        "id": 18,
+        "name": "electricity",
+        "label": "Electricité",
+        "tag": null,
+        "type": "room-family",
+        "picto": "zap",
+        "required": false,
+        "nature": "basic",
+        "position": 3
+      },
+      {
+        "id": 20,
+        "name": "plumbing",
+        "label": "Plomberie",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bathtub",
+        "required": false,
+        "nature": "basic",
+        "position": 4
+      },
+      {
+        "id": 21,
+        "name": "heater",
+        "label": "Chauffage / Ventilation",
+        "tag": null,
+        "type": "room-family",
+        "picto": "thermometer",
+        "required": false,
+        "nature": "basic",
+        "position": 5
+      },
+      {
+        "id": 23,
+        "name": "amenagement-base",
+        "label": "Aménagement",
+        "tag": null,
+        "type": "room-family",
+        "picto": "file_cabinet",
+        "required": false,
+        "nature": "basic",
+        "position": 7
+      },
+      {
+        "id": 24,
+        "name": "furniture",
+        "label": "Inventaire pour meublé",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bed",
+        "required": false,
+        "nature": "basic",
+        "position": 9
+      }
+    ],
+    "picto": "ico-entrance-s.png",
+    "required": false,
+    "nature": null,
+    "nature_group": null,
+    "position": 70
+  },
+  {
+    "id": 35,
+    "name": "laundry_room",
+    "label": "LAUNDRY ROOM",
+    "tag": null,
+    "type": "room",
+    "parent":
+    {
+      "id": 10,
+      "name": "rooms",
+      "label": "Pièces",
+      "tag": null,
+      "type": "room-fam",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 2
+    },
+    "room_families":
+    [
+      {
+        "id": 59,
+        "name": "built-annexe",
+        "label": "Built",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bricks",
+        "required": false,
+        "nature": "annexe",
+        "position": 1
+      },
+      {
+        "id": 17,
+        "name": "openings",
+        "label": "Ouvertures",
+        "tag": null,
+        "type": "room-family",
+        "picto": "window",
+        "required": false,
+        "nature": "basic",
+        "position": 2
+      },
+      {
+        "id": 18,
+        "name": "electricity",
+        "label": "Electricité",
+        "tag": null,
+        "type": "room-family",
+        "picto": "zap",
+        "required": false,
+        "nature": "basic",
+        "position": 3
+      },
+      {
+        "id": 70,
+        "name": "plumbing-exterior",
+        "label": "Plomberie",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bathtub",
+        "required": false,
+        "nature": "exterior",
+        "position": 4
+      },
+      {
+        "id": 21,
+        "name": "heater",
+        "label": "Chauffage / Ventilation",
+        "tag": null,
+        "type": "room-family",
+        "picto": "thermometer",
+        "required": false,
+        "nature": "basic",
+        "position": 5
+      },
+      {
+        "id": 22,
+        "name": "home-appliance",
+        "label": "Home appliance",
+        "tag": null,
+        "type": "room-family",
+        "picto": "control_knobs",
+        "required": false,
+        "nature": "kitchen",
+        "position": 6
+      },
+      {
+        "id": 23,
+        "name": "amenagement-base",
+        "label": "Aménagement",
+        "tag": null,
+        "type": "room-family",
+        "picto": "file_cabinet",
+        "required": false,
+        "nature": "basic",
+        "position": 7
+      },
+      {
+        "id": 24,
+        "name": "furniture",
+        "label": "Inventaire pour meublé",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bed",
+        "required": false,
+        "nature": "basic",
+        "position": 9
+      }
+    ],
+    "picto": "buanderie.png",
+    "required": false,
+    "nature": null,
+    "nature_group": null,
+    "position": 80
+  },
+  {
+    "id": 40,
+    "name": "walk-in-closet",
+    "label": "WALK-IN CLOSET",
+    "tag": null,
+    "type": "room",
+    "parent":
+    {
+      "id": 10,
+      "name": "rooms",
+      "label": "Pièces",
+      "tag": null,
+      "type": "room-fam",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 2
+    },
+    "room_families":
+    [
+      {
+        "id": 16,
+        "name": "built",
+        "label": "Built",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bricks",
+        "required": false,
+        "nature": "basic",
+        "position": 1
+      },
+      {
+        "id": 17,
+        "name": "openings",
+        "label": "Ouvertures",
+        "tag": null,
+        "type": "room-family",
+        "picto": "window",
+        "required": false,
+        "nature": "basic",
+        "position": 2
+      },
+      {
+        "id": 18,
+        "name": "electricity",
+        "label": "Electricité",
+        "tag": null,
+        "type": "room-family",
+        "picto": "zap",
+        "required": false,
+        "nature": "basic",
+        "position": 3
+      },
+      {
+        "id": 20,
+        "name": "plumbing",
+        "label": "Plomberie",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bathtub",
+        "required": false,
+        "nature": "basic",
+        "position": 4
+      },
+      {
+        "id": 21,
+        "name": "heater",
+        "label": "Chauffage / Ventilation",
+        "tag": null,
+        "type": "room-family",
+        "picto": "thermometer",
+        "required": false,
+        "nature": "basic",
+        "position": 5
+      },
+      {
+        "id": 73,
+        "name": "electromenager-bath",
+        "label": "Home appliance",
+        "tag": null,
+        "type": "room-family",
+        "picto": "control_knobs",
+        "required": false,
+        "nature": "wet-room",
+        "position": 6
+      },
+      {
+        "id": 23,
+        "name": "amenagement-base",
+        "label": "Aménagement",
+        "tag": null,
+        "type": "room-family",
+        "picto": "file_cabinet",
+        "required": false,
+        "nature": "basic",
+        "position": 7
+      },
+      {
+        "id": 24,
+        "name": "furniture",
+        "label": "Inventaire pour meublé",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bed",
+        "required": false,
+        "nature": "basic",
+        "position": 9
+      }
+    ],
+    "picto": "dressing.png",
+    "required": false,
+    "nature": null,
+    "nature_group": null,
+    "position": 90
+  },
+  {
+    "id": 43,
+    "name": "stairway",
+    "label": "STAIRWAY",
+    "tag": null,
+    "type": "room",
+    "parent":
+    {
+      "id": 10,
+      "name": "rooms",
+      "label": "Pièces",
+      "tag": null,
+      "type": "room-fam",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 2
+    },
+    "room_families":
+    [
+      {
+        "id": 55,
+        "name": "built-esc",
+        "label": "Built",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bricks",
+        "required": false,
+        "nature": "stairs",
+        "position": 1
+      },
+      {
+        "id": 56,
+        "name": "openings-stairs",
+        "label": "Ouvertures",
+        "tag": null,
+        "type": "room-family",
+        "picto": "window",
+        "required": false,
+        "nature": "stairs",
+        "position": 2
+      },
+      {
+        "id": 18,
+        "name": "electricity",
+        "label": "Electricité",
+        "tag": null,
+        "type": "room-family",
+        "picto": "zap",
+        "required": false,
+        "nature": "basic",
+        "position": 3
+      },
+      {
+        "id": 21,
+        "name": "heater",
+        "label": "Chauffage / Ventilation",
+        "tag": null,
+        "type": "room-family",
+        "picto": "thermometer",
+        "required": false,
+        "nature": "basic",
+        "position": 5
+      },
+      {
+        "id": 23,
+        "name": "amenagement-base",
+        "label": "Aménagement",
+        "tag": null,
+        "type": "room-family",
+        "picto": "file_cabinet",
+        "required": false,
+        "nature": "basic",
+        "position": 7
+      },
+      {
+        "id": 24,
+        "name": "furniture",
+        "label": "Inventaire pour meublé",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bed",
+        "required": false,
+        "nature": "basic",
+        "position": 9
+      }
+    ],
+    "picto": "escaliers.png",
+    "required": false,
+    "nature": null,
+    "nature_group": null,
+    "position": 100
+  },
+  {
+    "id": 41,
+    "name": "mezzanine",
+    "label": "MEZZANINE",
+    "tag": null,
+    "type": "room",
+    "parent":
+    {
+      "id": 10,
+      "name": "rooms",
+      "label": "Pièces",
+      "tag": null,
+      "type": "room-fam",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 2
+    },
+    "room_families":
+    [
+      {
+        "id": 55,
+        "name": "built-esc",
+        "label": "Built",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bricks",
+        "required": false,
+        "nature": "stairs",
+        "position": 1
+      },
+      {
+        "id": 56,
+        "name": "openings-stairs",
+        "label": "Ouvertures",
+        "tag": null,
+        "type": "room-family",
+        "picto": "window",
+        "required": false,
+        "nature": "stairs",
+        "position": 2
+      },
+      {
+        "id": 18,
+        "name": "electricity",
+        "label": "Electricité",
+        "tag": null,
+        "type": "room-family",
+        "picto": "zap",
+        "required": false,
+        "nature": "basic",
+        "position": 3
+      },
+      {
+        "id": 21,
+        "name": "heater",
+        "label": "Chauffage / Ventilation",
+        "tag": null,
+        "type": "room-family",
+        "picto": "thermometer",
+        "required": false,
+        "nature": "basic",
+        "position": 5
+      },
+      {
+        "id": 23,
+        "name": "amenagement-base",
+        "label": "Aménagement",
+        "tag": null,
+        "type": "room-family",
+        "picto": "file_cabinet",
+        "required": false,
+        "nature": "basic",
+        "position": 7
+      },
+      {
+        "id": 24,
+        "name": "furniture",
+        "label": "Inventaire pour meublé",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bed",
+        "required": false,
+        "nature": "basic",
+        "position": 9
+      }
+    ],
+    "picto": "mezzanine.png",
+    "required": false,
+    "nature": null,
+    "nature_group": null,
+    "position": 110
+  },
+  {
+    "id": 42,
+    "name": "shed",
+    "label": "SHED",
+    "tag": null,
+    "type": "room",
+    "parent":
+    {
+      "id": 10,
+      "name": "rooms",
+      "label": "Pièces",
+      "tag": null,
+      "type": "room-fam",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 2
+    },
+    "room_families":
+    [
+      {
+        "id": 58,
+        "name": "built-wet",
+        "label": "Built",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bricks",
+        "required": true,
+        "nature": "wet-room",
+        "position": 1
+      },
+      {
+        "id": 17,
+        "name": "openings",
+        "label": "Ouvertures",
+        "tag": null,
+        "type": "room-family",
+        "picto": "window",
+        "required": false,
+        "nature": "basic",
+        "position": 2
+      },
+      {
+        "id": 18,
+        "name": "electricity",
+        "label": "Electricité",
+        "tag": null,
+        "type": "room-family",
+        "picto": "zap",
+        "required": false,
+        "nature": "basic",
+        "position": 3
+      },
+      {
+        "id": 66,
+        "name": "plumbing-kitchen",
+        "label": "Plomberie",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bathtub",
+        "required": false,
+        "nature": "kitchen",
+        "position": 4
+      },
+      {
+        "id": 21,
+        "name": "heater",
+        "label": "Chauffage / Ventilation",
+        "tag": null,
+        "type": "room-family",
+        "picto": "thermometer",
+        "required": false,
+        "nature": "basic",
+        "position": 5
+      },
+      {
+        "id": 22,
+        "name": "home-appliance",
+        "label": "Home appliance",
+        "tag": null,
+        "type": "room-family",
+        "picto": "control_knobs",
+        "required": false,
+        "nature": "kitchen",
+        "position": 6
+      },
+      {
+        "id": 23,
+        "name": "amenagement-base",
+        "label": "Aménagement",
+        "tag": null,
+        "type": "room-family",
+        "picto": "file_cabinet",
+        "required": false,
+        "nature": "basic",
+        "position": 7
+      },
+      {
+        "id": 24,
+        "name": "furniture",
+        "label": "Inventaire pour meublé",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bed",
+        "required": false,
+        "nature": "basic",
+        "position": 9
+      }
+    ],
+    "picto": "cabanon.png",
+    "required": false,
+    "nature": null,
+    "nature_group": null,
+    "position": 115
+  },
+  {
+    "id": 37,
+    "name": "cellar",
+    "label": "CELLAR",
+    "tag": null,
+    "type": "room",
+    "parent":
+    {
+      "id": 10,
+      "name": "rooms",
+      "label": "Pièces",
+      "tag": null,
+      "type": "room-fam",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 2
+    },
+    "room_families":
+    [
+      {
+        "id": 59,
+        "name": "built-annexe",
+        "label": "Built",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bricks",
+        "required": false,
+        "nature": "annexe",
+        "position": 1
+      },
+      {
+        "id": 63,
+        "name": "openings-exterior",
+        "label": "Ouvertures",
+        "tag": null,
+        "type": "room-family",
+        "picto": "window",
+        "required": false,
+        "nature": "exterior",
+        "position": 2
+      },
+      {
+        "id": 18,
+        "name": "electricity",
+        "label": "Electricité",
+        "tag": null,
+        "type": "room-family",
+        "picto": "zap",
+        "required": false,
+        "nature": "basic",
+        "position": 3
+      },
+      {
+        "id": 70,
+        "name": "plumbing-exterior",
+        "label": "Plomberie",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bathtub",
+        "required": false,
+        "nature": "exterior",
+        "position": 4
+      },
+      {
+        "id": 21,
+        "name": "heater",
+        "label": "Chauffage / Ventilation",
+        "tag": null,
+        "type": "room-family",
+        "picto": "thermometer",
+        "required": false,
+        "nature": "basic",
+        "position": 5
+      },
+      {
+        "id": 22,
+        "name": "home-appliance",
+        "label": "Home appliance",
+        "tag": null,
+        "type": "room-family",
+        "picto": "control_knobs",
+        "required": false,
+        "nature": "kitchen",
+        "position": 6
+      },
+      {
+        "id": 23,
+        "name": "amenagement-base",
+        "label": "Aménagement",
+        "tag": null,
+        "type": "room-family",
+        "picto": "file_cabinet",
+        "required": false,
+        "nature": "basic",
+        "position": 7
+      },
+      {
+        "id": 24,
+        "name": "furniture",
+        "label": "Inventaire pour meublé",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bed",
+        "required": false,
+        "nature": "basic",
+        "position": 9
+      }
+    ],
+    "picto": "cave.png",
+    "required": false,
+    "nature": null,
+    "nature_group": null,
+    "position": 120
+  },
+  {
+    "id": 26,
+    "name": "pantry",
+    "label": "PANTRY",
+    "tag": null,
+    "type": "room",
+    "parent":
+    {
+      "id": 10,
+      "name": "rooms",
+      "label": "Pièces",
+      "tag": null,
+      "type": "room-fam",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 2
+    },
+    "room_families":
+    [
+      {
+        "id": 59,
+        "name": "built-annexe",
+        "label": "Built",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bricks",
+        "required": false,
+        "nature": "annexe",
+        "position": 1
+      },
+      {
+        "id": 17,
+        "name": "openings",
+        "label": "Ouvertures",
+        "tag": null,
+        "type": "room-family",
+        "picto": "window",
+        "required": false,
+        "nature": "basic",
+        "position": 2
+      },
+      {
+        "id": 18,
+        "name": "electricity",
+        "label": "Electricité",
+        "tag": null,
+        "type": "room-family",
+        "picto": "zap",
+        "required": false,
+        "nature": "basic",
+        "position": 3
+      },
+      {
+        "id": 70,
+        "name": "plumbing-exterior",
+        "label": "Plomberie",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bathtub",
+        "required": false,
+        "nature": "exterior",
+        "position": 4
+      },
+      {
+        "id": 21,
+        "name": "heater",
+        "label": "Chauffage / Ventilation",
+        "tag": null,
+        "type": "room-family",
+        "picto": "thermometer",
+        "required": false,
+        "nature": "basic",
+        "position": 5
+      },
+      {
+        "id": 22,
+        "name": "home-appliance",
+        "label": "Home appliance",
+        "tag": null,
+        "type": "room-family",
+        "picto": "control_knobs",
+        "required": false,
+        "nature": "kitchen",
+        "position": 6
+      },
+      {
+        "id": 23,
+        "name": "amenagement-base",
+        "label": "Aménagement",
+        "tag": null,
+        "type": "room-family",
+        "picto": "file_cabinet",
+        "required": false,
+        "nature": "basic",
+        "position": 7
+      },
+      {
+        "id": 24,
+        "name": "furniture",
+        "label": "Inventaire pour meublé",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bed",
+        "required": false,
+        "nature": "basic",
+        "position": 9
+      }
+    ],
+    "picto": "cellier.png",
+    "required": false,
+    "nature": null,
+    "nature_group": null,
+    "position": 125
+  },
+  {
+    "id": 34,
+    "name": "boiler_room",
+    "label": "BOILER ROOM",
+    "tag": null,
+    "type": "room",
+    "parent":
+    {
+      "id": 10,
+      "name": "rooms",
+      "label": "Pièces",
+      "tag": null,
+      "type": "room-fam",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 2
+    },
+    "room_families":
+    [
+      {
+        "id": 59,
+        "name": "built-annexe",
+        "label": "Built",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bricks",
+        "required": false,
+        "nature": "annexe",
+        "position": 1
+      },
+      {
+        "id": 17,
+        "name": "openings",
+        "label": "Ouvertures",
+        "tag": null,
+        "type": "room-family",
+        "picto": "window",
+        "required": false,
+        "nature": "basic",
+        "position": 2
+      },
+      {
+        "id": 18,
+        "name": "electricity",
+        "label": "Electricité",
+        "tag": null,
+        "type": "room-family",
+        "picto": "zap",
+        "required": false,
+        "nature": "basic",
+        "position": 3
+      },
+      {
+        "id": 70,
+        "name": "plumbing-exterior",
+        "label": "Plomberie",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bathtub",
+        "required": false,
+        "nature": "exterior",
+        "position": 4
+      },
+      {
+        "id": 21,
+        "name": "heater",
+        "label": "Chauffage / Ventilation",
+        "tag": null,
+        "type": "room-family",
+        "picto": "thermometer",
+        "required": false,
+        "nature": "basic",
+        "position": 5
+      },
+      {
+        "id": 22,
+        "name": "home-appliance",
+        "label": "Home appliance",
+        "tag": null,
+        "type": "room-family",
+        "picto": "control_knobs",
+        "required": false,
+        "nature": "kitchen",
+        "position": 6
+      },
+      {
+        "id": 23,
+        "name": "amenagement-base",
+        "label": "Aménagement",
+        "tag": null,
+        "type": "room-family",
+        "picto": "file_cabinet",
+        "required": false,
+        "nature": "basic",
+        "position": 7
+      },
+      {
+        "id": 24,
+        "name": "furniture",
+        "label": "Inventaire pour meublé",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bed",
+        "required": false,
+        "nature": "basic",
+        "position": 9
+      }
+    ],
+    "picto": "chaufferie.png",
+    "required": false,
+    "nature": null,
+    "nature_group": null,
+    "position": 130
+  },
+  {
+    "id": 32,
+    "name": "garage",
+    "label": "GARAGE",
+    "tag": null,
+    "type": "room",
+    "parent":
+    {
+      "id": 10,
+      "name": "rooms",
+      "label": "Pièces",
+      "tag": null,
+      "type": "room-fam",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 2
+    },
+    "room_families":
+    [
+      {
+        "id": 59,
+        "name": "built-annexe",
+        "label": "Built",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bricks",
+        "required": false,
+        "nature": "annexe",
+        "position": 1
+      },
+      {
+        "id": 63,
+        "name": "openings-exterior",
+        "label": "Ouvertures",
+        "tag": null,
+        "type": "room-family",
+        "picto": "window",
+        "required": false,
+        "nature": "exterior",
+        "position": 2
+      },
+      {
+        "id": 18,
+        "name": "electricity",
+        "label": "Electricité",
+        "tag": null,
+        "type": "room-family",
+        "picto": "zap",
+        "required": false,
+        "nature": "basic",
+        "position": 3
+      },
+      {
+        "id": 70,
+        "name": "plumbing-exterior",
+        "label": "Plomberie",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bathtub",
+        "required": false,
+        "nature": "exterior",
+        "position": 4
+      },
+      {
+        "id": 21,
+        "name": "heater",
+        "label": "Chauffage / Ventilation",
+        "tag": null,
+        "type": "room-family",
+        "picto": "thermometer",
+        "required": false,
+        "nature": "basic",
+        "position": 5
+      },
+      {
+        "id": 22,
+        "name": "home-appliance",
+        "label": "Home appliance",
+        "tag": null,
+        "type": "room-family",
+        "picto": "control_knobs",
+        "required": false,
+        "nature": "kitchen",
+        "position": 6
+      },
+      {
+        "id": 23,
+        "name": "amenagement-base",
+        "label": "Aménagement",
+        "tag": null,
+        "type": "room-family",
+        "picto": "file_cabinet",
+        "required": false,
+        "nature": "basic",
+        "position": 7
+      },
+      {
+        "id": 24,
+        "name": "furniture",
+        "label": "Inventaire pour meublé",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bed",
+        "required": false,
+        "nature": "basic",
+        "position": 9
+      }
+    ],
+    "picto": "garage.png",
+    "required": false,
+    "nature": null,
+    "nature_group": null,
+    "position": 140
+  },
+  {
+    "id": 36,
+    "name": "attic",
+    "label": "ATTIC",
+    "tag": null,
+    "type": "room",
+    "parent":
+    {
+      "id": 10,
+      "name": "rooms",
+      "label": "Pièces",
+      "tag": null,
+      "type": "room-fam",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 2
+    },
+    "room_families":
+    [
+      {
+        "id": 59,
+        "name": "built-annexe",
+        "label": "Built",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bricks",
+        "required": false,
+        "nature": "annexe",
+        "position": 1
+      },
+      {
+        "id": 17,
+        "name": "openings",
+        "label": "Ouvertures",
+        "tag": null,
+        "type": "room-family",
+        "picto": "window",
+        "required": false,
+        "nature": "basic",
+        "position": 2
+      },
+      {
+        "id": 18,
+        "name": "electricity",
+        "label": "Electricité",
+        "tag": null,
+        "type": "room-family",
+        "picto": "zap",
+        "required": false,
+        "nature": "basic",
+        "position": 3
+      },
+      {
+        "id": 70,
+        "name": "plumbing-exterior",
+        "label": "Plomberie",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bathtub",
+        "required": false,
+        "nature": "exterior",
+        "position": 4
+      },
+      {
+        "id": 21,
+        "name": "heater",
+        "label": "Chauffage / Ventilation",
+        "tag": null,
+        "type": "room-family",
+        "picto": "thermometer",
+        "required": false,
+        "nature": "basic",
+        "position": 5
+      },
+      {
+        "id": 22,
+        "name": "home-appliance",
+        "label": "Home appliance",
+        "tag": null,
+        "type": "room-family",
+        "picto": "control_knobs",
+        "required": false,
+        "nature": "kitchen",
+        "position": 6
+      },
+      {
+        "id": 23,
+        "name": "amenagement-base",
+        "label": "Aménagement",
+        "tag": null,
+        "type": "room-family",
+        "picto": "file_cabinet",
+        "required": false,
+        "nature": "basic",
+        "position": 7
+      },
+      {
+        "id": 24,
+        "name": "furniture",
+        "label": "Inventaire pour meublé",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bed",
+        "required": false,
+        "nature": "basic",
+        "position": 9
+      }
+    ],
+    "picto": "grenier.png",
+    "required": false,
+    "nature": null,
+    "nature_group": null,
+    "position": 150
+  },
+  {
+    "id": 38,
+    "name": "exteriors",
+    "label": "EXTÉRIEURS",
+    "tag": null,
+    "type": "room",
+    "parent":
+    {
+      "id": 10,
+      "name": "rooms",
+      "label": "Pièces",
+      "tag": null,
+      "type": "room-fam",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 2
+    },
+    "room_families":
+    [
+      {
+        "id": 60,
+        "name": "built-exterior",
+        "label": "Façade / végétaux",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bricks",
+        "required": false,
+        "nature": "exterior",
+        "position": 1
+      },
+      {
+        "id": 64,
+        "name": "openings-garden",
+        "label": "Ouvertures",
+        "tag": null,
+        "type": "room-family",
+        "picto": "window",
+        "required": false,
+        "nature": "garden",
+        "position": 2
+      },
+      {
+        "id": 65,
+        "name": "electricity-ext",
+        "label": "Electricité",
+        "tag": null,
+        "type": "room-family",
+        "picto": "zap",
+        "required": false,
+        "nature": "exterior",
+        "position": 3
+      },
+      {
+        "id": 71,
+        "name": "plumbing-garden",
+        "label": "Plomberie",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bathtub",
+        "required": false,
+        "nature": "garden",
+        "position": 4
+      },
+      {
+        "id": 72,
+        "name": "heater-exterior",
+        "label": "Chauffage / Ventilation",
+        "tag": null,
+        "type": "room-family",
+        "picto": "thermometer",
+        "required": false,
+        "nature": "exterior",
+        "position": 5
+      },
+      {
+        "id": 75,
+        "name": "amenagement-ext",
+        "label": "Aménagements",
+        "tag": null,
+        "type": "room-family",
+        "picto": "file_cabinet",
+        "required": false,
+        "nature": "exterior",
+        "position": 7
+      }
+    ],
+    "picto": "exterieur.png",
+    "required": false,
+    "nature": null,
+    "nature_group": null,
+    "position": 160
+  },
+  {
+    "id": 33,
+    "name": "local_technique",
+    "label": "LOCAL TECHNIQUE",
+    "tag": null,
+    "type": "room",
+    "parent":
+    {
+      "id": 10,
+      "name": "rooms",
+      "label": "Pièces",
+      "tag": null,
+      "type": "room-fam",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 2
+    },
+    "room_families":
+    [
+      {
+        "id": 59,
+        "name": "built-annexe",
+        "label": "Built",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bricks",
+        "required": false,
+        "nature": "annexe",
+        "position": 1
+      },
+      {
+        "id": 17,
+        "name": "openings",
+        "label": "Ouvertures",
+        "tag": null,
+        "type": "room-family",
+        "picto": "window",
+        "required": false,
+        "nature": "basic",
+        "position": 2
+      },
+      {
+        "id": 18,
+        "name": "electricity",
+        "label": "Electricité",
+        "tag": null,
+        "type": "room-family",
+        "picto": "zap",
+        "required": false,
+        "nature": "basic",
+        "position": 3
+      },
+      {
+        "id": 70,
+        "name": "plumbing-exterior",
+        "label": "Plomberie",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bathtub",
+        "required": false,
+        "nature": "exterior",
+        "position": 4
+      },
+      {
+        "id": 21,
+        "name": "heater",
+        "label": "Chauffage / Ventilation",
+        "tag": null,
+        "type": "room-family",
+        "picto": "thermometer",
+        "required": false,
+        "nature": "basic",
+        "position": 5
+      },
+      {
+        "id": 22,
+        "name": "home-appliance",
+        "label": "Home appliance",
+        "tag": null,
+        "type": "room-family",
+        "picto": "control_knobs",
+        "required": false,
+        "nature": "kitchen",
+        "position": 6
+      },
+      {
+        "id": 23,
+        "name": "amenagement-base",
+        "label": "Aménagement",
+        "tag": null,
+        "type": "room-family",
+        "picto": "file_cabinet",
+        "required": false,
+        "nature": "basic",
+        "position": 7
+      },
+      {
+        "id": 24,
+        "name": "furniture",
+        "label": "Inventaire pour meublé",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bed",
+        "required": false,
+        "nature": "basic",
+        "position": 9
+      }
+    ],
+    "picto": "local-technique.png",
+    "required": false,
+    "nature": null,
+    "nature_group": null,
+    "position": 162
+  },
+  {
+    "id": 39,
+    "name": "pool_house",
+    "label": "POOL HOUSE",
+    "tag": null,
+    "type": "room",
+    "parent":
+    {
+      "id": 10,
+      "name": "rooms",
+      "label": "Pièces",
+      "tag": null,
+      "type": "room-fam",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 2
+    },
+    "room_families":
+    [
+      {
+        "id": 58,
+        "name": "built-wet",
+        "label": "Built",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bricks",
+        "required": true,
+        "nature": "wet-room",
+        "position": 1
+      },
+      {
+        "id": 17,
+        "name": "openings",
+        "label": "Ouvertures",
+        "tag": null,
+        "type": "room-family",
+        "picto": "window",
+        "required": false,
+        "nature": "basic",
+        "position": 2
+      },
+      {
+        "id": 18,
+        "name": "electricity",
+        "label": "Electricité",
+        "tag": null,
+        "type": "room-family",
+        "picto": "zap",
+        "required": false,
+        "nature": "basic",
+        "position": 3
+      },
+      {
+        "id": 66,
+        "name": "plumbing-kitchen",
+        "label": "Plomberie",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bathtub",
+        "required": false,
+        "nature": "kitchen",
+        "position": 4
+      },
+      {
+        "id": 21,
+        "name": "heater",
+        "label": "Chauffage / Ventilation",
+        "tag": null,
+        "type": "room-family",
+        "picto": "thermometer",
+        "required": false,
+        "nature": "basic",
+        "position": 5
+      },
+      {
+        "id": 22,
+        "name": "home-appliance",
+        "label": "Home appliance",
+        "tag": null,
+        "type": "room-family",
+        "picto": "control_knobs",
+        "required": false,
+        "nature": "kitchen",
+        "position": 6
+      },
+      {
+        "id": 23,
+        "name": "amenagement-base",
+        "label": "Aménagement",
+        "tag": null,
+        "type": "room-family",
+        "picto": "file_cabinet",
+        "required": false,
+        "nature": "basic",
+        "position": 7
+      },
+      {
+        "id": 24,
+        "name": "furniture",
+        "label": "Inventaire pour meublé",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bed",
+        "required": false,
+        "nature": "basic",
+        "position": 9
+      }
+    ],
+    "picto": "pool-house.png",
+    "required": false,
+    "nature": null,
+    "nature_group": null,
+    "position": 163
+  },
+  {
+    "id": 49,
+    "name": "veranda",
+    "label": "VERANDA",
+    "tag": null,
+    "type": "room",
+    "parent":
+    {
+      "id": 10,
+      "name": "rooms",
+      "label": "Pièces",
+      "tag": null,
+      "type": "room-fam",
+      "parent": null,
+      "picto": null,
+      "required": false,
+      "nature": null,
+      "nature_group": null,
+      "position": 2
+    },
+    "room_families":
+    [
+      {
+        "id": 59,
+        "name": "built-annexe",
+        "label": "Built",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bricks",
+        "required": false,
+        "nature": "annexe",
+        "position": 1
+      },
+      {
+        "id": 17,
+        "name": "openings",
+        "label": "Ouvertures",
+        "tag": null,
+        "type": "room-family",
+        "picto": "window",
+        "required": false,
+        "nature": "basic",
+        "position": 2
+      },
+      {
+        "id": 18,
+        "name": "electricity",
+        "label": "Electricité",
+        "tag": null,
+        "type": "room-family",
+        "picto": "zap",
+        "required": false,
+        "nature": "basic",
+        "position": 3
+      },
+      {
+        "id": 70,
+        "name": "plumbing-exterior",
+        "label": "Plomberie",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bathtub",
+        "required": false,
+        "nature": "exterior",
+        "position": 4
+      },
+      {
+        "id": 21,
+        "name": "heater",
+        "label": "Chauffage / Ventilation",
+        "tag": null,
+        "type": "room-family",
+        "picto": "thermometer",
+        "required": false,
+        "nature": "basic",
+        "position": 5
+      },
+      {
+        "id": 22,
+        "name": "home-appliance",
+        "label": "Home appliance",
+        "tag": null,
+        "type": "room-family",
+        "picto": "control_knobs",
+        "required": false,
+        "nature": "kitchen",
+        "position": 6
+      },
+      {
+        "id": 23,
+        "name": "amenagement-base",
+        "label": "Aménagement",
+        "tag": null,
+        "type": "room-family",
+        "picto": "file_cabinet",
+        "required": false,
+        "nature": "basic",
+        "position": 7
+      },
+      {
+        "id": 24,
+        "name": "furniture",
+        "label": "Inventaire pour meublé",
+        "tag": null,
+        "type": "room-family",
+        "picto": "bed",
+        "required": false,
+        "nature": "basic",
+        "position": 9
+      }
+    ],
+    "picto": "veranda.png",
+    "required": false,
+    "nature": null,
+    "nature_group": null,
+    "position": 164
+  }
+]
