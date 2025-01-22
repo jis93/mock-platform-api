@@ -1,0 +1,10798 @@
+[
+  {
+    "id": 3283,
+    "label": "Taken off",
+    "value": "décolle-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 2081,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 11304,
+    "label": "Motorized",
+    "value": "motoris",
+    "options": {
+      "type": "list",
+      "dependency": "electricity"
+    },
+    "position": 100
+  },
+  {
+    "id": 1807,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 3647,
+    "label": "Painted",
+    "value": "peint-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 800
+  },
+  {
+    "id": 4262,
+    "label": "Height > 2m",
+    "value": "hauteur-2m",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 11297,
+    "label": "Grilling",
+    "value": "grillage",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 3580,
+    "label": "Ankle hole(s):",
+    "value": "trou-s-de-cheville",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 15600,
+    "label": "Broken(s)",
+    "value": "cass-ee-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "filtered_values": [
+      11497,
+      11491,
+      11492,
+      11490,
+      11496,
+      11471,
+      11483,
+      11472,
+      11470,
+      11477,
+      11476,
+      11489,
+      11480,
+      11481,
+      11469,
+      11486,
+      11474,
+      11493,
+      11495,
+      11475,
+      11487,
+      11482,
+      11473,
+      1529
+    ],
+    "id": 11503,
+    "label": "Roughcast",
+    "value": "cr-pi",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 15606,
+    "label": "Taken off",
+    "value": "d-coll-ee-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 15886,
+    "label": "Light headband(s)",
+    "value": "bandeau-x-lumineux",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 2113,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 1234,
+    "label": "Broken(s)",
+    "value": "cass-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 2571,
+    "label": "Torn",
+    "value": "d-chir-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 2600,
+    "label": "Carved face(s)",
+    "value": "face-s-taill-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 2605,
+    "label": "Burned (m²):",
+    "value": "br-l-e-m",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 2597,
+    "label": "Missing shrub(s) Number:",
+    "value": "arbuste-s-manquant-s-nbre",
+    "options": {
+      "type": "list"
+    },
+    "position": 20
+  },
+  {
+    "id": 2596,
+    "label": "Dead shrub(s) Number:",
+    "value": "arbuste-s-mort-s-nbre",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 15474,
+    "label": "Leak",
+    "value": "fuite",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 4439,
+    "label": "Painted",
+    "value": "peinte",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 3978,
+    "label": "Missing joint cover(s)",
+    "value": "couvre-joint-s-manquant-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 15439,
+    "label": "Ecaille(s)",
+    "value": "ecaille-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 15755,
+    "label": "Mastic(s) ME grossier(s)",
+    "value": "mastic-s-me-grossier-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 11
+  },
+  {
+    "id": 15757,
+    "label": "Unsealed",
+    "value": "descell-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 11959,
+    "label": "Block(s)",
+    "value": "bloqu-es",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 11965,
+    "label": "Crank tip(s) missing",
+    "value": "embout-s-de-manivelle-s-absent-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 900
+  },
+  {
+    "id": 3352,
+    "label": "Screw missing",
+    "value": "vis-absente-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 700
+  },
+  {
+    "id": 15863,
+    "label": "Spot(s)",
+    "value": "spot-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1100
+  },
+  {
+    "id": 15727,
+    "label": "Plastic film(s)",
+    "value": "film-s-plastique-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 15857,
+    "label": "Ampoule(s) simple(s)",
+    "value": "ampoule-s-simple-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 11860,
+    "label": "Dead shrub(s) Number:",
+    "value": "arbuste-s-mort-s-nbre",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 11973,
+    "label": "Frayed ME strap(s)",
+    "value": "sangle-s-me-effiloch-es",
+    "options": {
+      "type": "list"
+    },
+    "position": 1700
+  },
+  {
+    "id": 11767,
+    "label": "Animal scratch(es)",
+    "value": "griffure-s-animal",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 3832,
+    "label": "Close badly",
+    "value": "ferme-mal",
+    "options": {
+      "type": "list"
+    },
+    "position": 1100
+  },
+  {
+    "id": 3893,
+    "label": "Hinge(s) ME broken",
+    "value": "gond-s-me-cass-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1300
+  },
+  {
+    "id": 4030,
+    "label": "Pvc",
+    "value": "pvc",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 3612,
+    "label": "ME lock(s) blocked",
+    "value": "serrure-s-me-bloquee-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1900
+  },
+  {
+    "id": 1679,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 11668,
+    "label": "Cache absent",
+    "value": "cache-s-manquant-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 6
+  },
+  {
+    "id": 10016,
+    "label": "2 gates",
+    "value": "2-portillons",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 4469,
+    "label": "Painted",
+    "value": "peint-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 800
+  },
+  {
+    "id": 3951,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 800
+  },
+  {
+    "id": 11697,
+    "label": "Broken(s)",
+    "value": "cass-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 11671,
+    "label": "Painted",
+    "value": "peint-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 1249,
+    "label": "Broken(s)",
+    "value": "cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 15486,
+    "label": "Chain stopper(s)",
+    "value": "bouchon-s-chainette-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 15973,
+    "label": "Blocked",
+    "value": "bloqu-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 15935,
+    "label": "Torn(s)",
+    "value": "d-chir-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 15744,
+    "label": "Poorly fixed",
+    "value": "mal-fix-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 16311,
+    "label": "Sticker(s)",
+    "value": "sticker-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1500
+  },
+  {
+    "id": 15844,
+    "label": "With canisses (ml):",
+    "value": "avec-canisses-ml",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 16453,
+    "label": "Frayed ME strap(s)",
+    "value": "sangle-s-me-effiloch-es",
+    "options": {
+      "type": "list"
+    },
+    "position": 1500
+  },
+  {
+    "id": 12087,
+    "label": "Double door",
+    "value": "porte-double",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 1636,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 11778,
+    "label": "Veiled",
+    "value": "voil-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1900
+  },
+  {
+    "id": 11764,
+    "label": "Deposited",
+    "value": "d-pos-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 11330,
+    "label": "Led(s)",
+    "value": "led-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 1571,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 3038,
+    "label": "Thermostatic",
+    "value": "thermostatique",
+    "options": null,
+    "position": 30
+  },
+  {
+    "id": 1975,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 10338,
+    "label": "Resin (acrylic)",
+    "value": "r-sine-acrylique",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 137,
+    "label": "Poorly fixed",
+    "value": "mal-fixee",
+    "options": {
+      "type": "list"
+    },
+    "position": 20
+  },
+  {
+    "id": 184,
+    "label": "Poorly fixed",
+    "value": "mal-fix-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 13626,
+    "label": "Burn(s)",
+    "value": "br-lure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 7
+  },
+  {
+    "id": 15754,
+    "label": "Mastic(s) ME coulant(s)",
+    "value": "mastic-s-me-coulant-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 15048,
+    "label": "Blocked",
+    "value": "bloqu-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 15708,
+    "label": "Rayure(s)",
+    "value": "rayure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 12
+  },
+  {
+    "id": 2640,
+    "label": "Bois",
+    "value": "bois",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 11748,
+    "label": "Energy saving bulb(s)",
+    "value": "ampoule-s-conomie-d-nergie",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 12300,
+    "label": "Blocked",
+    "value": "bloqu-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 12303,
+    "label": "Poorly fixed",
+    "value": "mal-fix-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 12349,
+    "label": "Poorly fixed",
+    "value": "mal-fix-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 3152,
+    "label": "Don’t close",
+    "value": "ne-ferme-pas",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 10294,
+    "label": "ELECTROLUX",
+    "value": "electrolux",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 2796,
+    "label": "Concrete bin(s) (flowers) Number:",
+    "value": "bac-s-b-ton-fleurs-nbre",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 2841,
+    "label": "Untreated (green) water",
+    "value": "eau-non-trait-e-verte",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 2803,
+    "label": "Reel(s) blocked",
+    "value": "enrouleur-s-bloqu",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 4396,
+    "label": "NC vacuum cleaner broom",
+    "value": "balai-aspirateur-nc",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 2834,
+    "label": "Brut",
+    "value": "brut",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 2823,
+    "label": "Margelle(s) absent(s) Number:",
+    "value": "margelle-s-absente-s-nbre",
+    "options": {
+      "type": "list"
+    },
+    "position": 800
+  },
+  {
+    "id": 4382,
+    "label": "Fountain (NC operation)",
+    "value": "fontaine-fonctionnement-nc",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 4321,
+    "label": "Fissure(s)",
+    "value": "fissure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 1718,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 16451,
+    "label": "Crank(s) removed",
+    "value": "manivelle-s-d-pos-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 800
+  },
+  {
+    "id": 13729,
+    "label": "Door(s) Number:",
+    "value": "porte-s-nbre",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 13513,
+    "label": "Wrongly adjusted gate(s)",
+    "value": "portillon-s-mal-r-gl-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 13651,
+    "label": "Rust",
+    "value": "rouille",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 13778,
+    "label": "Rattan",
+    "value": "rotin",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 13565,
+    "label": "Depression(s)",
+    "value": "enfoncement-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 11
+  },
+  {
+    "id": 13587,
+    "label": "Handle(s) missing",
+    "value": "poign-e-s-absente-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 3512,
+    "label": "Bouton(s) absent(s)",
+    "value": "bouton-s-absent-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 3479,
+    "label": "Burn(s)",
+    "value": "brulure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 700
+  },
+  {
+    "id": 1512,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 12380,
+    "label": "Don’t close",
+    "value": "ne-ferme-pas",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 10406,
+    "label": "Other brand:",
+    "value": "autre-marque",
+    "options": {
+      "type": "list"
+    },
+    "position": 2200
+  },
+  {
+    "id": 10413,
+    "label": "HAIER",
+    "value": "haier",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 3113,
+    "label": "Eclat(s)",
+    "value": "eclat-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 900
+  },
+  {
+    "id": 10202,
+    "label": "WHIRLPOOL",
+    "value": "whirlpool",
+    "options": {
+      "type": "list"
+    },
+    "position": 1600
+  },
+  {
+    "id": 2873,
+    "label": "Shutter",
+    "value": "volet",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 2861,
+    "label": "Broken ME tile(s) Number:",
+    "value": "carreau-x-me-cass-s-nbre",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 4377,
+    "label": "Bar cover",
+    "value": "couverture-barres",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 1161,
+    "label": "Wrongly adjusted gate(s)",
+    "value": "portillon-s-mal-r-gl-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 50
+  },
+  {
+    "id": 13680,
+    "label": "Broken handle(s)",
+    "value": "poign-e-s-cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 13
+  },
+  {
+    "id": 13676,
+    "label": "Animal scratch(es)",
+    "value": "griffure-s-animal",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 14458,
+    "label": "Tache(s)",
+    "value": "tache-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 14535,
+    "label": "Tache(s)",
+    "value": "tache-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 6
+  },
+  {
+    "id": 12561,
+    "label": "Broken foot(s)",
+    "value": "pied-s-cass-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 3452,
+    "label": "Tear(s)",
+    "value": "dechirure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 10190,
+    "label": "FRIONOR",
+    "value": "frionor",
+    "options": {
+      "type": "list"
+    },
+    "position": 700
+  },
+  {
+    "id": 2780,
+    "label": "Broken ME brick(s):",
+    "value": "brique-s-me-cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 10293,
+    "label": "CANDY",
+    "value": "candy",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 10175,
+    "label": "FAURE",
+    "value": "faure",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 3203,
+    "label": "FORGET",
+    "value": "GLEM",
+    "options": {
+      "type": "number"
+    },
+    "position": 170
+  },
+  {
+    "id": 14677,
+    "label": "Burn(s)",
+    "value": "br-lure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 14493,
+    "label": "Tache(s)",
+    "value": "tache-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 3363,
+    "label": "Burn(s)",
+    "value": "brulure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 1189,
+    "label": "Ankle hole(s)",
+    "value": "trou-s-de-cheville",
+    "options": {
+      "type": "list"
+    },
+    "position": 190
+  },
+  {
+    "id": 13703,
+    "label": "Rust",
+    "value": "rouille",
+    "options": {
+      "type": "list"
+    },
+    "position": 18
+  },
+  {
+    "id": 12345,
+    "label": "Trace(s) noire(s)",
+    "value": "trace-s-noire-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 8
+  },
+  {
+    "id": 3220,
+    "label": "Cutlery rack(s) missing",
+    "value": "range-s-couvert-s-absent-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 900
+  },
+  {
+    "id": 14593,
+    "label": "Broken mechanism",
+    "value": "m-canisme-cass",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 3014,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 10287,
+    "label": "FAURE",
+    "value": "faure",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 11898,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 2000
+  },
+  {
+    "id": 59,
+    "label": "Doors)",
+    "value": "porte-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 6
+  },
+  {
+    "id": 72,
+    "label": "Bidet",
+    "value": "bidet",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 77,
+    "label": "Break-in",
+    "value": "effraction",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 26,
+    "label": "Forced",
+    "value": "forc-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 1416,
+    "label": "Bicycle room",
+    "value": "local-v-lo",
+    "options": {
+      "type": "list"
+    },
+    "position": 700
+  },
+  {
+    "id": 4178,
+    "label": "Poorly plugged dowel holes:",
+    "value": "trous-de-chevilles-mal-bouch-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 2630,
+    "label": "Tiling",
+    "value": "carrelage",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 11585,
+    "label": "Scale(s)",
+    "value": "ecaille-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 11589,
+    "label": "Terni",
+    "value": "terni",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 11610,
+    "label": "Motif(s) phosphorescent(s)",
+    "value": "motif-s-phosphorescent-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2200
+  },
+  {
+    "id": 15636,
+    "label": "Friction",
+    "value": "frottement",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 11551,
+    "label": "Worn varnish",
+    "value": "vernis-us",
+    "options": {
+      "type": "list"
+    },
+    "position": 2200
+  },
+  {
+    "id": 11569,
+    "label": "Furniture imprint(s)",
+    "value": "empreinte-s-de-meuble",
+    "options": {
+      "type": "list"
+    },
+    "position": 1300
+  },
+  {
+    "id": 2110,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 1529,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 11491,
+    "label": "Except 1 side ME:",
+    "value": "sauf-1-pan-me",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 11603,
+    "label": "Detachment(s)",
+    "value": "d-collement-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1500
+  },
+  {
+    "id": 16300,
+    "label": "Poorly blocked ankle hole(s):",
+    "value": "trou-s-de-cheville-mal-bouch-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 11494,
+    "label": "Headboard stain(s)",
+    "value": "tache-s-t-te-de-lit",
+    "options": {
+      "type": "list"
+    },
+    "position": 2700
+  },
+  {
+    "id": 12108,
+    "label": "Bois",
+    "value": "bois",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 16273,
+    "label": "Number of shine(s):",
+    "value": "eclat-s-nbre",
+    "options": {
+      "type": "list"
+    },
+    "position": 140
+  },
+  {
+    "id": 15705,
+    "label": "ME handle(s) broken",
+    "value": "poign-e-s-me-cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 9
+  },
+  {
+    "id": 2656,
+    "label": "Partially collapsed",
+    "value": "effondr-en-partie",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 3863,
+    "label": "Tordu(s)",
+    "value": "tordu-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 4087,
+    "label": "Fantasy(s) (color)",
+    "value": "fantaisie-s-couleur",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 13,
+    "label": "Shelving(s)",
+    "value": "rayonnage-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 78,
+    "label": "Depression",
+    "value": "enfoncement",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 96,
+    "label": "Forced",
+    "value": "forcee",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 16775,
+    "label": "Absent",
+    "value": "abs",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 2578,
+    "label": "Wooden blades",
+    "value": "lames-de-bois",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 2577,
+    "label": "Gravillonnée(s)",
+    "value": "gravillonn-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 2589,
+    "label": "Mosaic paving stones",
+    "value": "pav-s-mosa-ques",
+    "options": {
+      "type": "list"
+    },
+    "position": 700
+  },
+  {
+    "id": 3935,
+    "label": "Strap(s)",
+    "value": "sangle-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 900
+  },
+  {
+    "id": 8,
+    "label": "Motorized",
+    "value": "motorise",
+    "options": {
+      "type": "list",
+      "dependency": "electricity"
+    },
+    "position": 1100
+  },
+  {
+    "id": 11478,
+    "label": "Snag(s)",
+    "value": "accroc-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 700
+  },
+  {
+    "id": 3763,
+    "label": "Poorly attached plate(s)",
+    "value": "plaque-s-mal-fix-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 15663,
+    "label": "Tap leak",
+    "value": "fuite-robinet",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 12126,
+    "label": "Wooden blades",
+    "value": "lames-bois",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 15799,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 3682,
+    "label": "Rayure(s)",
+    "value": "rayure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1400
+  },
+  {
+    "id": 3680,
+    "label": "Exploded doorframe",
+    "value": "huisserie-clat-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 1100
+  },
+  {
+    "id": 3771,
+    "label": "Worn(s)",
+    "value": "us-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1200
+  },
+  {
+    "id": 3761,
+    "label": "Painted",
+    "value": "peinte",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 3726,
+    "label": "Break-in",
+    "value": "effraction",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 3634,
+    "label": "ME lock(s) blocked",
+    "value": "serrure-s-me-bloquee-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1900
+  },
+  {
+    "filtered_values": [
+      1529,
+      11491,
+      11492,
+      11490,
+      11497,
+      11496,
+      11471,
+      11483,
+      11470,
+      11489,
+      11481,
+      11486,
+      11482,
+      11474,
+      11493,
+      11495,
+      11475,
+      11473
+    ],
+    "id": 11507,
+    "label": "Exposed stones",
+    "value": "pierres-apparentes",
+    "options": {
+      "type": "list"
+    },
+    "position": 1400
+  },
+  {
+    "id": 1241,
+    "label": "Poorly fixed",
+    "value": "mal-fix-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 30
+  },
+  {
+    "id": 15711,
+    "label": "Poorly fixed",
+    "value": "mal-fix-es",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 15918,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 4088,
+    "label": "Puff pastry(ies)",
+    "value": "feuillet-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 700
+  },
+  {
+    "id": 3736,
+    "label": "Poorly plugged dowel holes:",
+    "value": "trous-de-chevilles-mal-bouch-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 2688,
+    "label": "ME lock stuck",
+    "value": "serrure-me-bloqu-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 1800
+  },
+  {
+    "id": 3731,
+    "label": "Exploded doorframe",
+    "value": "huisserie-clat-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 1200
+  },
+  {
+    "id": 3617,
+    "label": "ME floor stop(s) broken",
+    "value": "arretoir-s-sol-me-casse-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 15925,
+    "label": "Poorly fixed",
+    "value": "mal-fix-es",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 16602,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 15721,
+    "label": "Poorly fixed",
+    "value": "mal-fix-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 11800,
+    "label": "Rust stain(s)",
+    "value": "tache-s-de-rouille",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 15639,
+    "label": "Poorly fixed",
+    "value": "mal-fix-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 4010,
+    "label": "ME joint cover(s) broken:",
+    "value": "couvre-joint-s-me-cass-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 15770,
+    "label": "ME joint cover(s) broken",
+    "value": "couvre-joint-s-me-cass-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 8
+  },
+  {
+    "filtered_values": [
+      1539,
+      11570,
+      11557,
+      11565,
+      11562,
+      11550,
+      11552,
+      11567,
+      11564,
+      11560,
+      11553,
+      11566,
+      11568,
+      11556,
+      11561
+    ],
+    "id": 9881,
+    "label": "Tomettes",
+    "value": "tomettes",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 11642,
+    "label": "Missing tile(s) Number:",
+    "value": "carreau-x-manquant-s-nbre",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 15951,
+    "label": "Missing rod(s)",
+    "value": "tringle-s-absente-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 9
+  },
+  {
+    "id": 16287,
+    "label": "Poorly placed",
+    "value": "mal-pos-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 190
+  },
+  {
+    "id": 954,
+    "label": "Deposited",
+    "value": "d-pos-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 1075,
+    "label": "Worn brush",
+    "value": "brosse-us-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 3574,
+    "label": "Blade(s) missing Number:",
+    "value": "lame-s-absente-s-nbre",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 134,
+    "label": "Does not work",
+    "value": "ne-fonctionne-nt-pas",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 15618,
+    "label": "Poorly fixed",
+    "value": "mal-fix-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 2607,
+    "label": "Wild",
+    "value": "en-friche",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 2598,
+    "label": "Cut(s) < 2m",
+    "value": "taill-e-s-2m",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 15598,
+    "label": "Broken(s)",
+    "value": "cass-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 2515,
+    "label": "ME joint cover(s) broken",
+    "value": "couvre-joint-s-me-cass-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 3974,
+    "label": "Clogged dowel holes:",
+    "value": "trous-de-chevilles-bouch-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 3743,
+    "label": "Me split glazing(s) (surface):",
+    "value": "vitrage-s-me-fendu-s-surface",
+    "options": {
+      "type": "list"
+    },
+    "position": 1900
+  },
+  {
+    "id": 1721,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 16459,
+    "label": "Plastic film(s)",
+    "value": "film-s-plastique-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 16341,
+    "label": "Poorly attached plate(s)",
+    "value": "plaque-s-mal-fix-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 11888,
+    "label": "Break-in",
+    "value": "effraction",
+    "options": {
+      "type": "list"
+    },
+    "position": 800
+  },
+  {
+    "id": 1625,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 15917,
+    "label": "Striped",
+    "value": "ray-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 10881,
+    "label": "Keyless",
+    "value": "sans-cl",
+    "options": {
+      "type": "list"
+    },
+    "position": 111
+  },
+  {
+    "id": 15868,
+    "label": "Energy saving bulb(s)",
+    "value": "ampoule-s-conomie-d-nergie",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 4013,
+    "label": "Rust",
+    "value": "rouille",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 3845,
+    "label": "Ankle hole(s):",
+    "value": "trou-s-de-cheville",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 11719,
+    "label": "Does not work",
+    "value": "ne-fonctionne-nt-pas",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 1552,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 2719,
+    "label": "Broken(s)",
+    "value": "cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 4286,
+    "label": "Missing cache(s)",
+    "value": "cache-s-manquant-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 15564,
+    "label": "Split",
+    "value": "fendue",
+    "options": {
+      "type": "list"
+    },
+    "position": 30
+  },
+  {
+    "id": 3243,
+    "label": "Champ(s) absent(s)",
+    "value": "champ-s-absent-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 10023,
+    "label": "2 drawers",
+    "value": "2-tiroirs",
+    "options": {
+      "type": "list"
+    },
+    "position": 900
+  },
+  {
+    "id": 3062,
+    "label": "Paint stain(s)",
+    "value": "taches-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 40
+  },
+  {
+    "id": 11715,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 16010,
+    "label": "Bonde the Shower",
+    "value": "bonde-de-douche",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 11698,
+    "label": "Poorly fixed",
+    "value": "mal-fix-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 1394,
+    "label": "Absence of enamel",
+    "value": "absence-mail",
+    "options": {
+      "type": "list"
+    },
+    "position": 60
+  },
+  {
+    "id": 1396,
+    "label": "Earthenware",
+    "value": "fa-enc-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 20
+  },
+  {
+    "id": 15463,
+    "label": "ME handle broken",
+    "value": "poign-e-cass-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 3560,
+    "label": "Number of shine(s):",
+    "value": "eclat-s-nbre",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 3350,
+    "label": "Painted",
+    "value": "peinte-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 16440,
+    "label": "ME winder box(es) broken",
+    "value": "boitier-s-enrouleur-s-me-cass-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 170,
+    "label": "Scale(s)",
+    "value": "-caille-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 30
+  },
+  {
+    "id": 10362,
+    "label": "Italian style",
+    "value": "a-l-italienne",
+    "options": {
+      "type": "list"
+    },
+    "position": 50
+  },
+  {
+    "id": 1877,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 16588,
+    "label": "Handset missing",
+    "value": "combin-absent",
+    "options": {
+      "type": "list"
+    },
+    "position": 60
+  },
+  {
+    "id": 15490,
+    "label": "Cement",
+    "value": "ciment",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 4445,
+    "label": "Paint task(s)",
+    "value": "t-che-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 3233,
+    "label": "Earthenware",
+    "value": "faience",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 3542,
+    "label": "Clogged dowel hole(s):",
+    "value": "trou-s-de-cheville-bouche-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1400
+  },
+  {
+    "id": 3538,
+    "label": "Goal(s) absent",
+    "value": "portillon-s-absent-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 3045,
+    "label": "ME handle broken",
+    "value": "poignee-me-cassee",
+    "options": {
+      "type": "list"
+    },
+    "position": 700
+  },
+  {
+    "id": 4284,
+    "label": "Rust",
+    "value": "rouille",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 10020,
+    "label": "3 rays",
+    "value": "3-rayons",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 4485,
+    "label": "Gate(s) Number:",
+    "value": "portillon-s-nbre",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 4447,
+    "label": "Tartar",
+    "value": "tartre",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 15992,
+    "label": "Silicone",
+    "value": "silicone",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 182,
+    "label": "Deposited",
+    "value": "d-pos-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 1988,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 16012,
+    "label": "Plastic (PVC)",
+    "value": "plastique-pvc",
+    "options": {
+      "type": "list"
+    },
+    "position": 50
+  },
+  {
+    "id": 4513,
+    "label": "Missing field(s)",
+    "value": "champ-s-manquant-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 13634,
+    "label": "Rayure(s)",
+    "value": "rayure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 15
+  },
+  {
+    "id": 15950,
+    "label": "Crooked Blade(s)",
+    "value": "lame-s-tordue-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 11942,
+    "label": "Hinge(s) ME broken",
+    "value": "gond-s-me-cass-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1300
+  },
+  {
+    "id": 11934,
+    "label": "Yellowed by nicotine",
+    "value": "jaunie-s-par-nicotine",
+    "options": {
+      "type": "list"
+    },
+    "position": 1400
+  },
+  {
+    "id": 16317,
+    "label": "Rub(s)",
+    "value": "frotte-nt",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 16445,
+    "label": "Missing crank tip(s)",
+    "value": "embout-s-de-manivelle-s-manquant-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 11891,
+    "label": "Poorly painted",
+    "value": "mal-peint",
+    "options": {
+      "type": "list"
+    },
+    "position": 1500
+  },
+  {
+    "id": 3848,
+    "label": "Air inlet(s) clogged",
+    "value": "entr-e-s-d-air-me-bouch-es",
+    "options": {
+      "type": "list"
+    },
+    "position": 900
+  },
+  {
+    "id": 3840,
+    "label": "Veiled",
+    "value": "voil-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2100
+  },
+  {
+    "id": 3878,
+    "label": "Close badly",
+    "value": "ferme-mal",
+    "options": {
+      "type": "list"
+    },
+    "position": 1100
+  },
+  {
+    "id": 3004,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 16746,
+    "label": "Clogged dowel hole(s):",
+    "value": "trou-s-de-cheville-bouch-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 4473,
+    "label": "Missing gate(s)",
+    "value": "portillon-s-manquant-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1300
+  },
+  {
+    "id": 3551,
+    "label": "Broken ME tile(s)",
+    "value": "carreau-x-me-casse-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 700
+  },
+  {
+    "id": 2755,
+    "label": "Tache(s)",
+    "value": "tache-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 700
+  },
+  {
+    "id": 12325,
+    "label": "Leak(s) on radiator(s)",
+    "value": "fuite-s-sur-radiateur-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 10330,
+    "label": "NEFF",
+    "value": "neff",
+    "options": {
+      "type": "list"
+    },
+    "position": 1600
+  },
+  {
+    "id": 16020,
+    "label": "Sticker(s)",
+    "value": "autocollant-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 6
+  },
+  {
+    "id": 3189,
+    "label": "Other brand:",
+    "value": "AUTRE-MARQUE-",
+    "options": {
+      "type": "number"
+    },
+    "position": 270
+  },
+  {
+    "id": 3192,
+    "label": "No brand",
+    "value": "PAS-DE-MARQUE",
+    "options": {
+      "type": "number"
+    },
+    "position": 280
+  },
+  {
+    "id": 10159,
+    "label": "BOSCH",
+    "value": "bosch",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 10151,
+    "label": "FAURE",
+    "value": "faure",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 16021,
+    "label": "Bouton(s) absent(s)",
+    "value": "bouton-s-absent-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 10263,
+    "label": "BRANDT",
+    "value": "brandt",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 10274,
+    "label": "INDEPENDENT",
+    "value": "indesit",
+    "options": {
+      "type": "list"
+    },
+    "position": 1100
+  },
+  {
+    "id": 10271,
+    "label": "MIELE",
+    "value": "miele",
+    "options": {
+      "type": "list"
+    },
+    "position": 1300
+  },
+  {
+    "id": 3222,
+    "label": "Moldy ME seal",
+    "value": "joint-me-moisi",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 2782,
+    "label": "Sentenced",
+    "value": "condamn",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 4435,
+    "label": "Covered (NC)",
+    "value": "couverte-nc",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 2819,
+    "label": "Cracked",
+    "value": "fendu-es",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 4322,
+    "label": "Mousse",
+    "value": "mousse",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 10616,
+    "label": "Fighter(s)",
+    "value": "battante-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 10620,
+    "label": "KZ mirror",
+    "value": "kz-miroir",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 12406,
+    "label": "Door(s) missing",
+    "value": "porte-s-absente-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 110
+  },
+  {
+    "id": 1259,
+    "label": "Partially missing",
+    "value": "en-partie-manquant",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 1163,
+    "label": "Rayon(s) absent(s)",
+    "value": "rayon-s-absent-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 110
+  },
+  {
+    "id": 4646,
+    "label": "Champ(s) absent(s)",
+    "value": "champ-s-absent-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 1171,
+    "label": "Deposited department(s)",
+    "value": "rayon-s-d-pos-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 120
+  },
+  {
+    "id": 13495,
+    "label": "Curved radius(es)",
+    "value": "rayon-s-cintr-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 14
+  },
+  {
+    "id": 1779,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 13593,
+    "label": "Gnawed(s)",
+    "value": "rong-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 16
+  },
+  {
+    "id": 13584,
+    "label": "Animal scratch(es)",
+    "value": "griffure-s-animal",
+    "options": {
+      "type": "list"
+    },
+    "position": 12
+  },
+  {
+    "id": 3357,
+    "label": "Cut pipe",
+    "value": "tuyau-coupe",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 3398,
+    "label": "Broken ME foot(s)",
+    "value": "pied-me-casse",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 3408,
+    "label": "Rayure(s)",
+    "value": "rauyre-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1200
+  },
+  {
+    "id": 14817,
+    "label": "Plastic",
+    "value": "plastique",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 1475,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 14712,
+    "label": "Broken handle(s)",
+    "value": "poign-e-s-cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 1505,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 1523,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 14747,
+    "label": "Mismatched",
+    "value": "d-pareill-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 2753,
+    "label": "Painted",
+    "value": "peinte-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 3146,
+    "label": "Witness HS",
+    "value": "temoin-hs",
+    "options": {
+      "type": "list"
+    },
+    "position": 800
+  },
+  {
+    "id": 10206,
+    "label": "INDEPENDENT",
+    "value": "indesit",
+    "options": {
+      "type": "list"
+    },
+    "position": 1200
+  },
+  {
+    "id": 2869,
+    "label": "NC alarm",
+    "value": "alarme-nc",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 1157,
+    "label": "Goal(s) absent",
+    "value": "portillon-s-absent-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 40
+  },
+  {
+    "id": 4654,
+    "label": "Champ(s) absent(s)",
+    "value": "champ-s-absent-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 14729,
+    "label": "Rust",
+    "value": "rouille",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 3011,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 2775,
+    "label": "Vide",
+    "value": "vide",
+    "options": {
+      "type": "list"
+    },
+    "position": 800
+  },
+  {
+    "id": 3163,
+    "label": "Poorly attached handle",
+    "value": "poignee-mal-fixee",
+    "options": {
+      "type": "list"
+    },
+    "position": 1100
+  },
+  {
+    "id": 14515,
+    "label": "Burn(s)",
+    "value": "br-lure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 3141,
+    "label": "Bouton(s) absent(s)",
+    "value": "bouton-s-absent-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 10222,
+    "label": "FABER",
+    "value": "faber",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 14705,
+    "label": "Rayure(s) profonde(s)",
+    "value": "rayure-s-profonde-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 16023,
+    "label": "Broken ME porthole/door",
+    "value": "hublot-porte-me-cass-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 14762,
+    "label": "Mismatched",
+    "value": "d-pareill-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 14746,
+    "label": "Broken(s)",
+    "value": "cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 14450,
+    "label": "Rayure(s)",
+    "value": "rayure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 14596,
+    "label": "Lid missing",
+    "value": "couvercle-absent",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 14643,
+    "label": "Tache(s)",
+    "value": "tache-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 14537,
+    "label": "Cut(s)",
+    "value": "coupure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 14806,
+    "label": "Varnished wood",
+    "value": "bois-verni",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 14683,
+    "label": "Rust",
+    "value": "rouille",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 12411,
+    "label": "Broken rail(s)",
+    "value": "rail-s-cass-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 160
+  },
+  {
+    "id": 12403,
+    "label": "Handle(s) poorly secured",
+    "value": "poign-e-s-mal-fix-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 80
+  },
+  {
+    "id": 12767,
+    "label": "Burn(s)",
+    "value": "br-lure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 14755,
+    "label": "Burned",
+    "value": "br-l-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 4655,
+    "label": "Detached field(s)",
+    "value": "champ-s-decolle-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 4375,
+    "label": "NC alarm",
+    "value": "alarme-nc",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 36,
+    "label": "Depression",
+    "value": "enfoncement",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 56,
+    "label": "Carton(s)",
+    "value": "carton-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 1964,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 85,
+    "label": "Lock(s)",
+    "value": "verrou-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 16783,
+    "label": "Broken(s) / Split(s) (ME)",
+    "value": "cass-e-s-fendue-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 16781,
+    "label": "Broken Fastener (ME)",
+    "value": "attache-cass-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 1410,
+    "label": "Building",
+    "value": "immeuble",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 4271,
+    "label": "Unpruned Number:",
+    "value": "non-lagu-nbre",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 2530,
+    "label": "Metal cladding",
+    "value": "bardage-m-tallique",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 4175,
+    "label": "Mastic(s) manquant(s)",
+    "value": "mastic-s-manquant-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1200
+  },
+  {
+    "id": 4189,
+    "label": "Broken ME tile(s)",
+    "value": "tuile-s-me-cass-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 4197,
+    "label": "Leak",
+    "value": "fuite",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 4200,
+    "label": "Cane(s) missing",
+    "value": "canne-s-absente-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 4198,
+    "label": "Poorly fixed",
+    "value": "mal-fix-es",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 2620,
+    "label": "Eclat(s)",
+    "value": "eclat-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 2628,
+    "label": "Ankle hole(s):",
+    "value": "trou-s-de-cheville",
+    "options": {
+      "type": "list"
+    },
+    "position": 1400
+  },
+  {
+    "id": 4241,
+    "label": "Missing shrub(s) Number:",
+    "value": "arbuste-s-manquant-s-nbre",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 1236,
+    "label": "Poorly fixed",
+    "value": "mal-fix-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 30
+  },
+  {
+    "id": 11486,
+    "label": "Poorly placed",
+    "value": "mal-pos",
+    "options": {
+      "type": "list"
+    },
+    "position": 2200
+  },
+  {
+    "id": 981,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 50
+  },
+  {
+    "id": 1583,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 11650,
+    "label": "Broken ME tile(s) Number:",
+    "value": "carreau-x-me-cass-s-nbre",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 11634,
+    "label": "Poorly posed",
+    "value": "mal-pos-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1100
+  },
+  {
+    "id": 15621,
+    "label": "Striped",
+    "value": "ray-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 16294,
+    "label": "Not compliant(s) (HN)",
+    "value": "non-conforme-s-hn",
+    "options": {
+      "type": "list"
+    },
+    "position": 700
+  },
+  {
+    "id": 11933,
+    "label": "Handle(s) poorly secured",
+    "value": "poign-e-s-mal-fix-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 12128,
+    "label": "Dirty Floor",
+    "value": "sol-brut",
+    "options": {
+      "type": "list"
+    },
+    "position": 700
+  },
+  {
+    "id": 47,
+    "label": "Carton(s)",
+    "value": "carton-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 4085,
+    "label": "Armed",
+    "value": "arm-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 15076,
+    "label": "Varnished wood",
+    "value": "bois-vernis",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 2678,
+    "label": "Don’t close",
+    "value": "ne-ferme-pas",
+    "options": {
+      "type": "list"
+    },
+    "position": 900
+  },
+  {
+    "id": 3909,
+    "label": "ME joint cover(s) broken",
+    "value": "couvre-joint-s-me-cass-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 98,
+    "label": "Turn in the void",
+    "value": "tourne-dans-le-vide",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 2622,
+    "label": "Lame(s) descellée(s)",
+    "value": "lame-s-descell-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 800
+  },
+  {
+    "id": 3803,
+    "label": "Don’t close",
+    "value": "ne-ferme-nt-pas",
+    "options": {
+      "type": "list"
+    },
+    "position": 1300
+  },
+  {
+    "id": 3977,
+    "label": "Sticker(s)",
+    "value": "autocollant-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 3762,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 16276,
+    "label": "Taken off",
+    "value": "d-coll-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 110
+  },
+  {
+    "id": 16299,
+    "label": "Clogged dowel hole(s):",
+    "value": "trou-s-de-cheville-bouch-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 15794,
+    "label": "Painted",
+    "value": "peint-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 11587,
+    "label": "Structural crack(s)",
+    "value": "fissure-s-structurelle-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 3860,
+    "label": "Unsealed",
+    "value": "descell-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 3732,
+    "label": "Poorly painted",
+    "value": "mal-peint",
+    "options": {
+      "type": "list"
+    },
+    "position": 1300
+  },
+  {
+    "id": 4041,
+    "label": "Varnished wood",
+    "value": "bois-vernis",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 4046,
+    "label": "Sliding",
+    "value": "coulissante",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 3620,
+    "label": "Pillar recess(s)",
+    "value": "enfoncement-pilier-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 135,
+    "label": "Not waterproof(s)",
+    "value": "non-tanche-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 15651,
+    "label": "Slotted glass (m2):",
+    "value": "verre-fendu-m",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 15650,
+    "label": "PVC made (m2):",
+    "value": "pvc-fendu-m",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 3790,
+    "label": "Ecaille(s)",
+    "value": "ecaille-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 11784,
+    "label": "Break-in",
+    "value": "effraction",
+    "options": {
+      "type": "list"
+    },
+    "position": 700
+  },
+  {
+    "id": 15773,
+    "label": "PVC made (m2):",
+    "value": "pvc-fendu-m",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 12293,
+    "label": "Rust",
+    "value": "rouille",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 15662,
+    "label": "Disjointed",
+    "value": "d-cousu-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 6
+  },
+  {
+    "id": 11595,
+    "label": "Ripped off",
+    "value": "arrach-es",
+    "options": {
+      "type": "list"
+    },
+    "position": 700
+  },
+  {
+    "id": 15445,
+    "label": "Pique(s)",
+    "value": "piqu-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 3757,
+    "label": "Hook",
+    "value": "accroche",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 3777,
+    "label": "Blocked",
+    "value": "bloqu-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 15884,
+    "label": "Ampoule(s) simple(s)",
+    "value": "ampoule-s-simple-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 4261,
+    "label": "Cut(s) < 2m",
+    "value": "taill-e-s-2m",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 1532,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 4258,
+    "label": "Mown(s)",
+    "value": "tondue-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 16328,
+    "label": "Close poorly",
+    "value": "ferme-nt-mal",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 16305,
+    "label": "Tordu(s)",
+    "value": "tordu-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 900
+  },
+  {
+    "id": 1073,
+    "label": "Broken",
+    "value": "cass-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 3792,
+    "label": "Close badly",
+    "value": "ferme-mal",
+    "options": {
+      "type": "list"
+    },
+    "position": 700
+  },
+  {
+    "id": 11309,
+    "label": "Manuel",
+    "value": "manuel",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 4056,
+    "label": "Metal",
+    "value": "m-tal",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 4116,
+    "label": ".",
+    "value": "",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 4005,
+    "label": "Missing joint cover(s)",
+    "value": "couvre-joint-s-manquant-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 11489,
+    "label": "Structural crack(s)",
+    "value": "fissure-s-structurelle-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1700
+  },
+  {
+    "id": 11083,
+    "label": "Mixer",
+    "value": "mitigeur",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 15611,
+    "label": "Ecaille(s)",
+    "value": "ecaille-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 16458,
+    "label": "Missing joint cover(s)",
+    "value": "couvre-joint-s-manquant-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 7
+  },
+  {
+    "id": 15968,
+    "label": "Thrush(s)",
+    "value": "tordue-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 16754,
+    "label": "Poorly painted",
+    "value": "mal-peinte",
+    "options": {
+      "type": "list"
+    },
+    "position": 900
+  },
+  {
+    "id": 12197,
+    "label": "Electric rolling wheel",
+    "value": "roulant-lectrique",
+    "options": {
+      "type": "list",
+      "dependency": "electricity"
+    },
+    "position": 500
+  },
+  {
+    "id": 11968,
+    "label": "Disjointed blade(s)",
+    "value": "lame-s-disjointes",
+    "options": {
+      "type": "list"
+    },
+    "position": 1200
+  },
+  {
+    "id": 11972,
+    "label": "Mechanism(s) seized",
+    "value": "m-canisme-s-gripp-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1600
+  },
+  {
+    "id": 15836,
+    "label": "Frosted(s)",
+    "value": "d-poli-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 1565,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 11769,
+    "label": "Sticker(s)",
+    "value": "sticker-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1500
+  },
+  {
+    "id": 15864,
+    "label": "Fluorescent / neon tube(s)",
+    "value": "tube-s-fluo-n-on",
+    "options": {
+      "type": "list"
+    },
+    "position": 1200
+  },
+  {
+    "id": 11961,
+    "label": "Broken ME hook(s)",
+    "value": "crochet-s-fermeture-s-cass-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 800
+  },
+  {
+    "id": 15832,
+    "label": "Overglazing(s)",
+    "value": "survitrage-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 3955,
+    "label": "Mastic(s) ME grossier(s)",
+    "value": "mastic-s-me-grossier-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 700
+  },
+  {
+    "id": 3884,
+    "label": "Poorly plugged dowel holes:",
+    "value": "trous-de-chevilles-mal-bouch-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 3614,
+    "label": "Leaf(s) removed",
+    "value": "vantail-aux-depose-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2100
+  },
+  {
+    "id": 1615,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 11695,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 11667,
+    "label": "Marque(s) cutter",
+    "value": "marque-s-cutter",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 11736,
+    "label": "Single socket(s)",
+    "value": "douille-s-simple-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 11733,
+    "label": "DCL",
+    "value": "dcl",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 4291,
+    "label": "Painted",
+    "value": "peinte-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 4474,
+    "label": "Deposited department(s)",
+    "value": "rayon-s-d-pos-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1400
+  },
+  {
+    "id": 4480,
+    "label": "1 gate",
+    "value": "1-portillon",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 11724,
+    "label": "Poorly fixed",
+    "value": "mal-fix-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 16005,
+    "label": "Mixer",
+    "value": "m-langeur",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 11656,
+    "label": "Painted",
+    "value": "peint-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 11660,
+    "label": "Marque(s) cutter",
+    "value": "marque-s-cutter",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 3544,
+    "label": "Base missing",
+    "value": "socle-absent",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 172,
+    "label": "Paint stain(s)",
+    "value": "tache-s-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 60
+  },
+  {
+    "id": 1398,
+    "label": "Cigarette burn(s) Number:",
+    "value": "br-lure-s-de-cigarette-nbre",
+    "options": {
+      "type": "list"
+    },
+    "position": 70
+  },
+  {
+    "id": 145,
+    "label": "Bung missing",
+    "value": "bonde-absente",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 16566,
+    "label": "Blocked",
+    "value": "bloqu-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 1566,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 11971,
+    "label": "ME deposited crank(s)",
+    "value": "manivelle-s-d-pos-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1500
+  },
+  {
+    "id": 16572,
+    "label": "Bent ME plate(s)",
+    "value": "plaque-s-tordue-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 1624,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 15725,
+    "label": "Sticker(s)",
+    "value": "autocollant-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 6
+  },
+  {
+    "id": 4020,
+    "label": "Bois",
+    "value": "bois",
+    "options": {
+      "type": "list"
+    },
+    "position": 111
+  },
+  {
+    "id": 3883,
+    "label": "Handle(s) poorly secured",
+    "value": "poign-e-s-mal-fix-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1800
+  },
+  {
+    "id": 11758,
+    "label": "Led(s)",
+    "value": "led-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 800
+  },
+  {
+    "id": 3539,
+    "label": "Deposited department(s)",
+    "value": "rayon-s-depose-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1100
+  },
+  {
+    "id": 15491,
+    "label": "Plastic joint cover",
+    "value": "couvre-joint-plastique",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 4463,
+    "label": "Dowel hole(s):",
+    "value": "trou-s-de-cheville-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 3332,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 3319,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 15557,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 16007,
+    "label": "Thermostatic",
+    "value": "thermostatique",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 16015,
+    "label": "Fixed wall (without door)",
+    "value": "paroi-fixe-sans-porte",
+    "options": {
+      "type": "list"
+    },
+    "position": 20
+  },
+  {
+    "id": 16011,
+    "label": "Glass",
+    "value": "verre",
+    "options": {
+      "type": "list"
+    },
+    "position": 40
+  },
+  {
+    "id": 3567,
+    "label": "Ecaille(s)",
+    "value": "ecaille-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 16014,
+    "label": "2-door cabin",
+    "value": "cabine-2-portes",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 177,
+    "label": "Poorly fixed",
+    "value": "mal-fix-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 40
+  },
+  {
+    "id": 4457,
+    "label": "Leak",
+    "value": "fuite",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 11902,
+    "label": "ME handle(s) broken",
+    "value": "poign-e-s-me-cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1800
+  },
+  {
+    "id": 15937,
+    "label": "Burns",
+    "value": "br-lures",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 4511,
+    "label": "Clogged dowel hole(s):)",
+    "value": "trou-s-de-cheville-s-bouch-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 16347,
+    "label": "ME handle(s) broken",
+    "value": "poign-e-s-me-cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 9
+  },
+  {
+    "id": 1564,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 3947,
+    "label": "Plastic film(s)",
+    "value": "film-s-plastique-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 3092,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 11766,
+    "label": "Rayure(s)",
+    "value": "rayure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1400
+  },
+  {
+    "id": 4483,
+    "label": "2 rays",
+    "value": "2-rayons",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 4479,
+    "label": "ME handle(s) broken",
+    "value": "poign-e-s-me-cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1100
+  },
+  {
+    "id": 3550,
+    "label": "Missing tile(s)",
+    "value": "carreau-x-absent-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 4460,
+    "label": "Shock(s)",
+    "value": "choc-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 2746,
+    "label": "ME nozzle(s) broken",
+    "value": "buse-s-me-cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 12315,
+    "label": "Poorly fixed",
+    "value": "mal-fix-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 12312,
+    "label": "Capot thermostat absent",
+    "value": "capot-thermostat-absent",
+    "options": {
+      "type": "list"
+    },
+    "position": 6
+  },
+  {
+    "id": 12330,
+    "label": "Poorly painted",
+    "value": "mal-peint-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 8
+  },
+  {
+    "id": 3138,
+    "label": "Rayure(s)",
+    "value": "rayure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 3158,
+    "label": "Eclat(s)",
+    "value": "eclat-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 3218,
+    "label": "Sticker(s)",
+    "value": "autocollant-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 700
+  },
+  {
+    "id": 2764,
+    "label": "Drying rack on poles",
+    "value": "etendoir-sur-poteaux",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 2471,
+    "label": "Others) : ",
+    "value": "autre-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 2474,
+    "label": "Cracked",
+    "value": "fendu-es",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 2800,
+    "label": "Skimmer cover(s) missing",
+    "value": "couvercle-s-de-skimmer-absent-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 10550,
+    "label": "With key(s)",
+    "value": "avec-cl-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 1269,
+    "label": "Shard(s) Number:",
+    "value": "clat-s-nbre",
+    "options": {
+      "type": "list"
+    },
+    "position": 30
+  },
+  {
+    "id": 1183,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 50
+  },
+  {
+    "id": 1166,
+    "label": "Deposited department(s)",
+    "value": "rayon-s-d-pos-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 170
+  },
+  {
+    "id": 13494,
+    "label": "Door(s) incorrectly adjusted",
+    "value": "porte-s-mal-r-gl-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 13735,
+    "label": "Wrought iron",
+    "value": "fer-forg",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 13532,
+    "label": "Gate(s) removed",
+    "value": "portillon-s-d-pos-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 13529,
+    "label": "Broken foot(s)",
+    "value": "pied-s-cass-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 4509,
+    "label": "Drawer(s) Number:",
+    "value": "tiroir-s-nbre",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 13608,
+    "label": "Broken handle(s)",
+    "value": "poign-e-s-cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 13603,
+    "label": "Depression(s)",
+    "value": "enfoncement-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 11
+  },
+  {
+    "id": 13647,
+    "label": "Broken foot(s)",
+    "value": "pied-s-cass-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 13669,
+    "label": "Slotted window(s) m²:",
+    "value": "vitre-s-fendue-s-m",
+    "options": {
+      "type": "list"
+    },
+    "position": 17
+  },
+  {
+    "id": 1770,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 13570,
+    "label": "Broken handle(s)",
+    "value": "poign-e-s-cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 13571,
+    "label": "Deposited department(s)",
+    "value": "rayon-s-d-pos-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 14
+  },
+  {
+    "id": 13577,
+    "label": "Slotted window(s) m²:",
+    "value": "vitre-s-fendue-s-m",
+    "options": {
+      "type": "list"
+    },
+    "position": 18
+  },
+  {
+    "id": 13594,
+    "label": "Broken caster(s)",
+    "value": "roulette-s-cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 17
+  },
+  {
+    "id": 13590,
+    "label": "Wrongly adjusted gate(s)",
+    "value": "portillon-s-mal-r-gl-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 13589,
+    "label": "Gate(s) removed",
+    "value": "portillon-s-d-pos-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 13700,
+    "label": "Deposited department(s)",
+    "value": "rayon-s-d-pos-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 16
+  },
+  {
+    "id": 13711,
+    "label": "Ecaille(s)",
+    "value": "ecaille-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 8
+  },
+  {
+    "id": 3443,
+    "label": "Bare wires",
+    "value": "fils-denudes",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 3399,
+    "label": "ME setting broken",
+    "value": "reglage-me-casse",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 3390,
+    "label": "Undressed seat(s)",
+    "value": "assise-s-depareille-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 3489,
+    "label": "ME setting broken",
+    "value": "reglage-me-casse",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 3412,
+    "label": "Tear(s)",
+    "value": "dechirure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 14435,
+    "label": "Absent lampshade",
+    "value": "abat-jour-absent",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 14430,
+    "label": "Bare wires",
+    "value": "fils-d-nud-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 6
+  },
+  {
+    "id": 14584,
+    "label": "Burn(s)",
+    "value": "br-lure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 14577,
+    "label": "Rust",
+    "value": "rouille",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 1477,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 14575,
+    "label": "Broken caster(s)",
+    "value": "roulette-s-cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 14647,
+    "label": "Tache(s)",
+    "value": "tache-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 14797,
+    "label": "Ebreche(s)",
+    "value": "ebr-ch-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 14506,
+    "label": "Burn(s)",
+    "value": "br-lure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 12372,
+    "label": "Towel dryer type",
+    "value": "type-s-che-serviettes",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 12343,
+    "label": "Poorly fixed",
+    "value": "mal-fix-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 12342,
+    "label": "Split",
+    "value": "fendue",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 12332,
+    "label": "Faucet / crosspiece(s) missing",
+    "value": "robinet-croisillon-s-absent-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 16030,
+    "label": "Broken ME porthole/door",
+    "value": "hublot-porte-me-cass-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 10405,
+    "label": "WHIRLPOOL",
+    "value": "whirlpool",
+    "options": {
+      "type": "list"
+    },
+    "position": 2100
+  },
+  {
+    "id": 3206,
+    "label": "COOKE",
+    "value": "COOKE-&-LEWIS",
+    "options": {
+      "type": "number"
+    },
+    "position": 120
+  },
+  {
+    "id": 2778,
+    "label": "Well (NC operation)",
+    "value": "puit-fonctionnement-nc",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 2838,
+    "label": "Vide",
+    "value": "vide",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 2479,
+    "label": "Broken caster(s)",
+    "value": "roulette-s-cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 700
+  },
+  {
+    "id": 2475,
+    "label": "Not emptied",
+    "value": "non-vid-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 4316,
+    "label": "Alarm box unsealed",
+    "value": "boitier-alarme-descell",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 3440,
+    "label": "Bouton(s) absent(s)",
+    "value": "bouton-s-absent-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 3510,
+    "label": "Shock(s)",
+    "value": "choc-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 3400,
+    "label": "Broken ME roulette(s)",
+    "value": "roulette-me-cassee-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 1465,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 14518,
+    "label": "Mold(s)",
+    "value": "moisissure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 14803,
+    "label": "Fabric",
+    "value": "tissu",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 3453,
+    "label": "Animal scratch(es)",
+    "value": "griffure-s-animal",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 10305,
+    "label": "FAR",
+    "value": "far",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 4432,
+    "label": "Inflatable pool",
+    "value": "piscine-gonflable",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 3136,
+    "label": "ME window broken",
+    "value": "vitre-me-casse",
+    "options": {
+      "type": "list"
+    },
+    "position": 1200
+  },
+  {
+    "id": 10177,
+    "label": "ROSIERES",
+    "value": "rosieres",
+    "options": {
+      "type": "list"
+    },
+    "position": 1400
+  },
+  {
+    "id": 10221,
+    "label": "ELECTROLUX",
+    "value": "electrolux",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 3142,
+    "label": "Filter missing",
+    "value": "filtre-absent",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 10306,
+    "label": "FRIONOR",
+    "value": "frionor",
+    "options": {
+      "type": "list"
+    },
+    "position": 700
+  },
+  {
+    "id": 14425,
+    "label": "Absent lampshade",
+    "value": "abat-jour-absent",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 14592,
+    "label": "Torn cover",
+    "value": "housse-d-chir-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 3395,
+    "label": "Rayure(s)",
+    "value": "rayure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1100
+  },
+  {
+    "id": 3387,
+    "label": "Ecaille(s)",
+    "value": "ecaille-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 14432,
+    "label": "Rust",
+    "value": "rouille",
+    "options": {
+      "type": "list"
+    },
+    "position": 8
+  },
+  {
+    "id": 1463,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 13707,
+    "label": "With shock(s)",
+    "value": "avec-choc-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 6
+  },
+  {
+    "id": 3373,
+    "label": "Missing button(s)",
+    "value": "manque-bouton-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 3499,
+    "label": "Tear(s)",
+    "value": "dechirure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 3369,
+    "label": "With shock(s)",
+    "value": "avec-choc-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 3175,
+    "label": "ME freezer door broken",
+    "value": "porte-freezer-me-cassee",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 3386,
+    "label": "Broken(s)",
+    "value": "cassee-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 1409,
+    "label": "Thrush(s)",
+    "value": "tordue-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 3766,
+    "label": "Handle(s) poorly secured",
+    "value": "poign-e-s-mal-fix-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 31,
+    "label": "Shelving(s)",
+    "value": "rayonnage-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 69,
+    "label": "Chains",
+    "value": "cadenas",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 84,
+    "label": "Lock",
+    "value": "serrure",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 52,
+    "label": "Stained floor",
+    "value": "sol-tach",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 1972,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 1,
+    "label": "Does not work",
+    "value": "ne-fonctionne-nt-pas",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 2602,
+    "label": "Not weeded",
+    "value": "non-d-sherb-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 2613,
+    "label": "Not weeded",
+    "value": "non-d-sherb",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 2532,
+    "label": "Coating / Rendering",
+    "value": "enduit-cr-pi",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 2518,
+    "label": "Coating missing (m2)",
+    "value": "enduit-absent-m2",
+    "options": {
+      "type": "list"
+    },
+    "position": 800
+  },
+  {
+    "id": 4176,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 1600
+  },
+  {
+    "id": 2545,
+    "label": "Broken",
+    "value": "cass-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 4195,
+    "label": "Sunken",
+    "value": "enfonc-es",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 2993,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 4185,
+    "label": "Broken ME tile(s)",
+    "value": "tuile-s-me-cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 2541,
+    "label": "Poorly fixed",
+    "value": "mal-fix-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 2623,
+    "label": "Broken ME blade(s)",
+    "value": "lame-s-me-cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 900
+  },
+  {
+    "filtered_values": [
+      1642,
+      11585,
+      11587,
+      11589,
+      11591,
+      11593,
+      11596,
+      11597,
+      11601,
+      11604,
+      11605,
+      11606,
+      11609,
+      11610,
+      11611,
+      11612,
+      11613,
+      11615,
+      11616
+    ],
+    "id": 11623,
+    "label": "Brut",
+    "value": "brut",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "filtered_values": [
+      1539,
+      11570,
+      11557,
+      11565,
+      11562,
+      11550,
+      11564,
+      11560,
+      11566,
+      11568,
+      11556,
+      11561
+    ],
+    "id": 9877,
+    "label": "Marble",
+    "value": "marbre",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "filtered_values": [
+      1539,
+      11557,
+      11552,
+      11567,
+      11558,
+      11560,
+      11555,
+      11569,
+      11554,
+      11553,
+      11566,
+      11568,
+      11556,
+      11561
+    ],
+    "id": 9876,
+    "label": "Seagrass (coconut)",
+    "value": "jonc-de-mer-coco",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 2109,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "filtered_values": [
+      11552,
+      11567,
+      11570,
+      11564,
+      11558,
+      11557,
+      11560,
+      11565,
+      11555,
+      11569,
+      11562,
+      11554,
+      11571,
+      11553,
+      11563,
+      11550,
+      11561,
+      11566,
+      11568,
+      11556,
+      11551,
+      11559,
+      1539
+    ],
+    "id": 11576,
+    "label": "Sol PVC (linoleum)",
+    "value": "sol-pvc-linoleum",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "filtered_values": [
+      11552,
+      11567,
+      11570,
+      11564,
+      11558,
+      11557,
+      11560,
+      11565,
+      11555,
+      11569,
+      11562,
+      11554,
+      11571,
+      11553,
+      11563,
+      11550,
+      11561,
+      11566,
+      11568,
+      11556,
+      11551,
+      11559,
+      1539
+    ],
+    "id": 11578,
+    "label": "Marble",
+    "value": "marbre",
+    "options": {
+      "type": "list"
+    },
+    "position": 800
+  },
+  {
+    "id": 16282,
+    "label": "Trace(s) noire(s)",
+    "value": "trace-s-noire-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 30
+  },
+  {
+    "id": 15750,
+    "label": "Mastic(s) manquant(s)",
+    "value": "mastic-s-manquant-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 15891,
+    "label": "Glass globe(s)",
+    "value": "globe-s-verre",
+    "options": {
+      "type": "list"
+    },
+    "position": 700
+  },
+  {
+    "id": 15920,
+    "label": "Broken(s)",
+    "value": "cass-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 15903,
+    "label": "Electric(s)",
+    "value": "electrique-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 15805,
+    "label": "Poorly fixed",
+    "value": "mal-fix-es",
+    "options": {
+      "type": "list"
+    },
+    "position": 800
+  },
+  {
+    "id": 2651,
+    "label": "Ankle hole(s):",
+    "value": "trou-s-de-cheville",
+    "options": {
+      "type": "list"
+    },
+    "position": 900
+  },
+  {
+    "id": 12,
+    "label": "Shelf(s) attached to the wall",
+    "value": "etag-re-s-fix-e-s-au-mur",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 3781,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 15094,
+    "label": "Glassed",
+    "value": "vitr-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 15090,
+    "label": "Cat flap",
+    "value": "chati-re",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 2567,
+    "label": "Isolated",
+    "value": "isol-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 4114,
+    "label": "PVC",
+    "value": "pvc",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 15626,
+    "label": "Striped",
+    "value": "ray-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 3687,
+    "label": "Veiled",
+    "value": "voil-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1900
+  },
+  {
+    "id": 3518,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 2658,
+    "label": "Ivy",
+    "value": "lierre",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 16355,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 16515,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 6
+  },
+  {
+    "id": 4039,
+    "label": "PVC",
+    "value": "pvc",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 3729,
+    "label": "Rub(s)",
+    "value": "frotte-nt",
+    "options": {
+      "type": "list"
+    },
+    "position": 900
+  },
+  {
+    "id": 4438,
+    "label": "Poorly fixed",
+    "value": "mal-fix-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 11989,
+    "label": "Ankle hole(s):",
+    "value": "trou-s-de-cheville",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 15736,
+    "label": "Not compliant(s) (HN)",
+    "value": "non-conforme-s-hn",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 3928,
+    "label": "Flat chest(s)",
+    "value": "coffre-s-volet-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 4127,
+    "label": "Glass",
+    "value": "verre",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 15922,
+    "label": "Striped",
+    "value": "ray-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 1231,
+    "label": "Poorly fixed",
+    "value": "mal-fix-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 30
+  },
+  {
+    "id": 16603,
+    "label": "Hang(s)",
+    "value": "accroche-nt",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 15641,
+    "label": "Poorly fixed",
+    "value": "mal-fix-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 15694,
+    "label": "Poorly fixed",
+    "value": "mal-fix-es",
+    "options": {
+      "type": "list"
+    },
+    "position": 800
+  },
+  {
+    "id": 15778,
+    "label": "Blocked",
+    "value": "bloqu-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 11796,
+    "label": "Shard(s)",
+    "value": "clat-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 15768,
+    "label": "Mastic(s) ME coulant(s)",
+    "value": "mastic-s-me-coulant-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 3725,
+    "label": "Ecaille(s)",
+    "value": "ecaille-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 16279,
+    "label": "Poorly painted",
+    "value": "mal-peint",
+    "options": {
+      "type": "list"
+    },
+    "position": 180
+  },
+  {
+    "id": 16668,
+    "label": "Painted",
+    "value": "peint-es",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 3652,
+    "label": "Poorly blocked ankle hole(s):",
+    "value": "trou-s-de-cheville-bouche-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1300
+  },
+  {
+    "id": 3074,
+    "label": "Clogged dowel hole(s):",
+    "value": "trou-s-de-cheville-bouche-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 11615,
+    "label": "Clogged dowel hole(s):",
+    "value": "trou-s-de-cheville-bouch-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2600
+  },
+  {
+    "id": 4100,
+    "label": "Manual rolling",
+    "value": "roulant-manuel",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "filtered_values": [
+      11593,
+      11595,
+      11596,
+      11597,
+      11606,
+      11607,
+      11608,
+      11609,
+      11610,
+      11611,
+      11612,
+      11601,
+      11603,
+      11604,
+      11605,
+      11613,
+      11585,
+      11589,
+      11591,
+      11615,
+      11616,
+      1642
+    ],
+    "id": 11628,
+    "label": "Metal blades",
+    "value": "lames-m-talliques",
+    "options": {
+      "type": "list"
+    },
+    "position": 1200
+  },
+  {
+    "id": 11859,
+    "label": "Mole hole(s)",
+    "value": "trou-s-de-taupe",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 4099,
+    "label": "Electric rolling wheel",
+    "value": "roulant-lectrique",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 4440,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 1247,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 50
+  },
+  {
+    "id": 3964,
+    "label": "Ecaille(s)",
+    "value": "ecaille-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 15625,
+    "label": "Striped",
+    "value": "ray-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 15898,
+    "label": "Glass globe(s)",
+    "value": "globe-s-verre",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 15899,
+    "label": "Lustre(s)",
+    "value": "lustre-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 800
+  },
+  {
+    "id": 2564,
+    "label": "Ivy",
+    "value": "lierre",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 3001,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 15894,
+    "label": "Single socket(s)",
+    "value": "douille-s-simple-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 1576,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 3754,
+    "label": "Worn(s)",
+    "value": "us-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1200
+  },
+  {
+    "id": 16464,
+    "label": "Mastic(s) ME coulant(s)",
+    "value": "mastic-s-me-coulant-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 15939,
+    "label": "Cordon(s) absent(s)",
+    "value": "cordon-s-absent-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 6
+  },
+  {
+    "id": 1622,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 11901,
+    "label": "Hinge(s) ME broken",
+    "value": "gond-s-me-cass-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1300
+  },
+  {
+    "id": 16510,
+    "label": "Broken(s)",
+    "value": "cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 16448,
+    "label": "Disjointed blade(s)",
+    "value": "lame-s-disjointes",
+    "options": {
+      "type": "list"
+    },
+    "position": 700
+  },
+  {
+    "id": 1408,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 1859,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 1593,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 15834,
+    "label": "Fantasy(s) (color)",
+    "value": "fantaisie-s-couleur",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 185,
+    "label": "Rusty",
+    "value": "rouill-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 15855,
+    "label": "Single socket(s)",
+    "value": "douille-s-simple-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 15854,
+    "label": "DCL",
+    "value": "dcl",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 15808,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 2665,
+    "label": "Ground stop(s) missing",
+    "value": "arr-toir-s-sol-absent-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 3611,
+    "label": "Lock(s) seized",
+    "value": "serrure-s-grippee-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1800
+  },
+  {
+    "id": 11741,
+    "label": "Light headband(s)",
+    "value": "bandeau-x-lumineux",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 4287,
+    "label": "Broken(s)",
+    "value": "cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 4290,
+    "label": "Missing",
+    "value": "manquante-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 3331,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 4478,
+    "label": "Clogged dowel hole(s)",
+    "value": "trou-s-de-cheville-s-bouch-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 10030,
+    "label": "Gate(s) Number:",
+    "value": "portillon-s-nbre",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 3536,
+    "label": "Painted",
+    "value": "peint-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 800
+  },
+  {
+    "id": 11680,
+    "label": "Broken(s)",
+    "value": "cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 11672,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 15462,
+    "label": "Lack of foamer",
+    "value": "manque-mousseur",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 15483,
+    "label": "Mixer",
+    "value": "m-langeur",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 3059,
+    "label": "Sticked",
+    "value": "scotche",
+    "options": {
+      "type": "list"
+    },
+    "position": 30
+  },
+  {
+    "id": 1214,
+    "label": "Broken(s)",
+    "value": "cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 16016,
+    "label": "Mixer",
+    "value": "m-langeur",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 16018,
+    "label": "Mechanical drain",
+    "value": "bonde-m-canique",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 1395,
+    "label": "Number of shine(s):",
+    "value": "eclat-s-nbre",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 169,
+    "label": "Deposited",
+    "value": "d-pos-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 20
+  },
+  {
+    "id": 1404,
+    "label": "Striped",
+    "value": "ray",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 15457,
+    "label": "Partially missing",
+    "value": "en-partie-manquant",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 3054,
+    "label": "Doesn't work",
+    "value": "ne-fonctionne-pas",
+    "options": {
+      "type": "list"
+    },
+    "position": 50
+  },
+  {
+    "id": 1599,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 15434,
+    "label": "Unglued",
+    "value": "d-coll-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 166,
+    "label": "Poorly fixed",
+    "value": "mal-fix-",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 1570,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 11781,
+    "label": "Hinge(s) ME broken",
+    "value": "gond-s-me-cass-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 900
+  },
+  {
+    "id": 11765,
+    "label": "Trace(s) noire(s)",
+    "value": "trace-s-noire-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 3829,
+    "label": "Crochet(s) badly",
+    "value": "croch-te-nt-mal",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 3716,
+    "label": "Point hole(s)",
+    "value": "trou-s-de-pointe-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1700
+  },
+  {
+    "id": 12081,
+    "label": "Cut(s) < 2m",
+    "value": "taill-e-s-2m",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 11731,
+    "label": "Double",
+    "value": "double",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 3903,
+    "label": "Missing joint cover(s)",
+    "value": "couvre-joint-s-manquant-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 11763,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 11722,
+    "label": "Lack of lampshade",
+    "value": "manque-abat-jour",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 11703,
+    "label": "Missing wire cover(s)",
+    "value": "cache-s-fils-manquant-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 6
+  },
+  {
+    "id": 11327,
+    "label": "Projector(s)",
+    "value": "projecteur-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 3275,
+    "label": "Number of shine(s):",
+    "value": "eclat-s-nbre",
+    "options": {
+      "type": "list"
+    },
+    "position": 800
+  },
+  {
+    "id": 3269,
+    "label": "Champ(s) absent(s)",
+    "value": "champ-s-absent-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 3247,
+    "label": "Painted",
+    "value": "peint-es",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 3235,
+    "label": "Striped",
+    "value": "raye",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 11325,
+    "label": "Floor lamp(s)",
+    "value": "lampadaire-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 3238,
+    "label": "Ecaille(s)",
+    "value": "ecaille-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 3556,
+    "label": "Rayure(s)",
+    "value": "rayure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1200
+  },
+  {
+    "id": 3274,
+    "label": "Broken ME tile(s)",
+    "value": "carreau-x-me-casse-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 700
+  },
+  {
+    "id": 191,
+    "label": "Paint stain(s)",
+    "value": "tache-s-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 189,
+    "label": "Poorly fixed",
+    "value": "mal-fix-",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 1974,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 142,
+    "label": "Stretched",
+    "value": "etir-",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 16013,
+    "label": "1 door cabin",
+    "value": "cabine-1-porte",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 15752,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 16467,
+    "label": "Ankle hole(s):",
+    "value": "trou-s-de-cheville",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 3520,
+    "label": "Split(s)",
+    "value": "fendue-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 9382,
+    "label": "Porte western",
+    "value": "porte-western",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 1610,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 4027,
+    "label": "Paint",
+    "value": "peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 3709,
+    "label": "Break-in",
+    "value": "effraction",
+    "options": {
+      "type": "list"
+    },
+    "position": 700
+  },
+  {
+    "id": 3712,
+    "label": "Yellowed by nicotine",
+    "value": "jauni-par-nicotine",
+    "options": {
+      "type": "list"
+    },
+    "position": 1100
+  },
+  {
+    "id": 4106,
+    "label": "Overglazing(s)",
+    "value": "survitrage-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 4105,
+    "label": "Double(s)",
+    "value": "double-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 1906,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 12211,
+    "label": "Clogged dowel hole(s):",
+    "value": "trou-s-de-cheville-bouch-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 11081,
+    "label": "Plastic joint cover",
+    "value": "couvre-joint-plastique",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 4506,
+    "label": "Laminate",
+    "value": "stratifi",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 4503,
+    "label": "Broken ME tile(s)",
+    "value": "carreau-x-me-cass-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 4494,
+    "label": "Missing tile(s)",
+    "value": "carreau-x-manquant-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 4502,
+    "label": "Ankle hole(s):",
+    "value": "trou-s-de-cheville",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 2740,
+    "label": "Faucet blocked",
+    "value": "robinet-bloqu",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 12381,
+    "label": "Combustion residue",
+    "value": "r-sidus-de-combustion",
+    "options": {
+      "type": "list"
+    },
+    "position": 20
+  },
+  {
+    "id": 10152,
+    "label": "LG",
+    "value": "lg",
+    "options": {
+      "type": "list"
+    },
+    "position": 1500
+  },
+  {
+    "id": 10231,
+    "label": "FRIONOR",
+    "value": "frionor",
+    "options": {
+      "type": "list"
+    },
+    "position": 800
+  },
+  {
+    "id": 10249,
+    "label": "ELECTROLUX",
+    "value": "electrolux",
+    "options": {
+      "type": "list"
+    },
+    "position": 800
+  },
+  {
+    "id": 10285,
+    "label": "BOSCH",
+    "value": "bosch",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 3226,
+    "label": "ME handle broken",
+    "value": "poignee-me-cassee",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 2779,
+    "label": "Water collector",
+    "value": "r-cup-rateur-d-eau",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 2763,
+    "label": "Swing",
+    "value": "balan-oire",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 2757,
+    "label": "Broken",
+    "value": "cass-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 2810,
+    "label": "Ladder(s)",
+    "value": "echelle-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 2820,
+    "label": "Structural crack(s)",
+    "value": "fissure-s-structurelle-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 4380,
+    "label": "Basin (NC operation)",
+    "value": "bassin-fonctionnement-nc",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 12405,
+    "label": "Door(s) incorrectly adjusted",
+    "value": "porte-s-mal-r-gl-es",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 1106,
+    "label": "Poorly fixed",
+    "value": "mal-fix-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 80
+  },
+  {
+    "id": 1281,
+    "label": "Gate(s) Number:",
+    "value": "portillon-s-nbre",
+    "options": {
+      "type": "list"
+    },
+    "position": 50
+  },
+  {
+    "id": 16590,
+    "label": "Doesn't work",
+    "value": "ne-fonctionne-pas",
+    "options": {
+      "type": "list"
+    },
+    "position": 40
+  },
+  {
+    "id": 1092,
+    "label": "Number of shine(s):",
+    "value": "eclat-s-nbre",
+    "options": {
+      "type": "list"
+    },
+    "position": 90
+  },
+  {
+    "id": 1139,
+    "label": "Plinth(s) missing",
+    "value": "plinthe-s-absente-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 130
+  },
+  {
+    "id": 13733,
+    "label": "Painted wood",
+    "value": "bois-peint",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 13537,
+    "label": "Rust",
+    "value": "rouille",
+    "options": {
+      "type": "list"
+    },
+    "position": 17
+  },
+  {
+    "id": 13524,
+    "label": "Cut(s)",
+    "value": "coupure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 9
+  },
+  {
+    "id": 13673,
+    "label": "Cut(s)",
+    "value": "coupure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 13556,
+    "label": "Gnawed(s)",
+    "value": "rong-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 16
+  },
+  {
+    "id": 13580,
+    "label": "Champ(s) absent(s)",
+    "value": "champ-s-absent-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 8
+  },
+  {
+    "id": 13721,
+    "label": "Tache(s)",
+    "value": "tache-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 3425,
+    "label": "Tache(s)",
+    "value": "tache-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 14556,
+    "label": "Frayed",
+    "value": "effiloch-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 14607,
+    "label": "With shock(s)",
+    "value": "avec-choc-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 6
+  },
+  {
+    "id": 14632,
+    "label": "Broken(s)",
+    "value": "cass-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 14689,
+    "label": "Broken handle(s)",
+    "value": "poign-e-s-cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 14691,
+    "label": "Rayure(s) profonde(s)",
+    "value": "rayure-s-profonde-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 14736,
+    "label": "Broken(s)",
+    "value": "cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 1453,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 3186,
+    "label": "ROSIERES",
+    "value": "ROSIERES",
+    "options": {
+      "type": "number"
+    },
+    "position": 210
+  },
+  {
+    "id": 3115,
+    "label": "Joint ME unglued",
+    "value": "joint-me-decolle",
+    "options": {
+      "type": "list"
+    },
+    "position": 1100
+  },
+  {
+    "id": 3193,
+    "label": "IKEA",
+    "value": "IKEA",
+    "options": {
+      "type": "number"
+    },
+    "position": 130
+  },
+  {
+    "id": 3167,
+    "label": "Ampoule(s) HS",
+    "value": "ampoule-s-hs",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 3151,
+    "label": "Poorly attached handle",
+    "value": "poignee-mal-fixee",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 10197,
+    "label": "Electric(s)",
+    "value": "electrique-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 3170,
+    "label": "Joint ME unglued",
+    "value": "joint-me-decolle",
+    "options": {
+      "type": "list"
+    },
+    "position": 700
+  },
+  {
+    "id": 2868,
+    "label": "Tache(s)",
+    "value": "tache-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 900
+  },
+  {
+    "id": 3292,
+    "label": "Champ(s) absent(s)",
+    "value": "champ-s-absent-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 3336,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 1284,
+    "label": "3 rays",
+    "value": "3-rayons",
+    "options": {
+      "type": "list"
+    },
+    "position": 30
+  },
+  {
+    "id": 13664,
+    "label": "Rayure(s)",
+    "value": "rayure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 14812,
+    "label": "Painted wood",
+    "value": "bois-peint",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 14519,
+    "label": "Tache(s)",
+    "value": "tache-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 14531,
+    "label": "Cut(s)",
+    "value": "coupure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 14780,
+    "label": "Broken(s)",
+    "value": "cass-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 14771,
+    "label": "Broken(s)",
+    "value": "cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 14776,
+    "label": "Broken(s)",
+    "value": "cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 12340,
+    "label": "Shock(s)",
+    "value": "choc-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 6
+  },
+  {
+    "id": 3164,
+    "label": "ME handle broken",
+    "value": "poignee-me-cassee",
+    "options": {
+      "type": "list"
+    },
+    "position": 1200
+  },
+  {
+    "id": 10241,
+    "label": "ROSIERES",
+    "value": "rosieres",
+    "options": {
+      "type": "list"
+    },
+    "position": 2100
+  },
+  {
+    "id": 2821,
+    "label": "Unsealed wooden blade(s) Number:",
+    "value": "lame-s-bois-descell-e-s-nbre",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 14699,
+    "label": "Rust",
+    "value": "rouille",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 3145,
+    "label": "ME split visor/cap",
+    "value": "visiere-casquette-me-fendue",
+    "options": {
+      "type": "list"
+    },
+    "position": 700
+  },
+  {
+    "id": 4367,
+    "label": "Poorly fixed",
+    "value": "mal-fix-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 10273,
+    "label": "CANDY",
+    "value": "candy",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 14739,
+    "label": "Thrush(s)",
+    "value": "tordue-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 1506,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 14703,
+    "label": "Broken(s)",
+    "value": "cass-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 14614,
+    "label": "Rust",
+    "value": "rouille",
+    "options": {
+      "type": "list"
+    },
+    "position": 8
+  },
+  {
+    "id": 3469,
+    "label": "Broken",
+    "value": "casse-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 14659,
+    "label": "Rust",
+    "value": "rouille",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 13301,
+    "label": "Fabric",
+    "value": "tissu",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 13706,
+    "label": "Slotted window(s) m²:",
+    "value": "vitre-s-fendue-s-m",
+    "options": {
+      "type": "list"
+    },
+    "position": 20
+  },
+  {
+    "id": 14653,
+    "label": "Broken(s)",
+    "value": "cass-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 7
+  },
+  {
+    "id": 1485,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 13695,
+    "label": "Broken foot(s)",
+    "value": "pied-s-cass-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 11
+  },
+  {
+    "id": 14423,
+    "label": "Bare wires",
+    "value": "fils-d-nud-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 6
+  },
+  {
+    "id": 3392,
+    "label": "Cracked leather",
+    "value": "cuir-craquele",
+    "options": {
+      "type": "list"
+    },
+    "position": 800
+  },
+  {
+    "id": 1137,
+    "label": "Painted",
+    "value": "peinte",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 1089,
+    "label": "Ecaille(s)",
+    "value": "ecaille-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 60
+  },
+  {
+    "id": 14743,
+    "label": "Broken(s)",
+    "value": "cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 3406,
+    "label": "Ecaille(s)",
+    "value": "ecaille-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 15916,
+    "label": "Broken(s)",
+    "value": "cass-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 16357,
+    "label": "Hook",
+    "value": "accroche",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 3334,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 2584,
+    "label": "Broken ME blade(s)",
+    "value": "lame-s-me-cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 700
+  },
+  {
+    "id": 4270,
+    "label": "Elagué",
+    "value": "elagu",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 2531,
+    "label": "Brut",
+    "value": "brut",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 2528,
+    "label": "Poorly blocked ankle hole(s):",
+    "value": "trou-s-de-cheville-mal-bouch-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 4182,
+    "label": "Me split glazing(s) (surface):",
+    "value": "vitrage-s-me-fendu-s-surface",
+    "options": {
+      "type": "list"
+    },
+    "position": 1800
+  },
+  {
+    "id": 2535,
+    "label": "Glass",
+    "value": "verre",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 2995,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 2542,
+    "label": "Thrush(s)",
+    "value": "tordue-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 2599,
+    "label": "Height > 2m",
+    "value": "hauteur-2m",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 11605,
+    "label": "Shard(s)",
+    "value": "clat-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1700
+  },
+  {
+    "filtered_values": [
+      1539,
+      11557,
+      11565,
+      11562,
+      11560,
+      11553,
+      11566,
+      11568,
+      11556,
+      11561
+    ],
+    "id": 9880,
+    "label": "Exposed stones",
+    "value": "pierres-apparentes",
+    "options": {
+      "type": "list"
+    },
+    "position": 900
+  },
+  {
+    "id": 1239,
+    "label": "Broken(s)",
+    "value": "cass-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 974,
+    "label": "Deposited",
+    "value": "d-pos-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 15970,
+    "label": "Broken blade(s)",
+    "value": "lame-s-cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 14999,
+    "label": "Pique(s)",
+    "value": "piqu-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 6
+  },
+  {
+    "id": 1701,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 12044,
+    "label": "Ankle hole(s):",
+    "value": "trou-s-de-cheville",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 15785,
+    "label": "Disjointed",
+    "value": "d-cousu-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 6
+  },
+  {
+    "id": 4202,
+    "label": "Torn(s)",
+    "value": "d-chir-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 3783,
+    "label": "Blocked",
+    "value": "bloqu-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 3779,
+    "label": "Poorly fixed",
+    "value": "mal-fix-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 3938,
+    "label": "Broken",
+    "value": "cass-es",
+    "options": {
+      "type": "list"
+    },
+    "position": 1200
+  },
+  {
+    "id": 15073,
+    "label": "Painted wood",
+    "value": "bois-peint",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 4042,
+    "label": ".",
+    "value": "",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 3683,
+    "label": "Sticker(s)",
+    "value": "sticker-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1500
+  },
+  {
+    "id": 12251,
+    "label": "Clogged dowel hole(s):",
+    "value": "trou-s-de-cheville-bouch-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 7
+  },
+  {
+    "id": 3911,
+    "label": "Mastic(s) ME coulant(s)",
+    "value": "mastic-s-me-coulant-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 2586,
+    "label": "Not weeded",
+    "value": "non-d-sherb-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 1414,
+    "label": "Mailbox",
+    "value": "boite-aux-lettres",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 83,
+    "label": "Chains",
+    "value": "cadenas",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 15081,
+    "label": "Tipper",
+    "value": "basculante",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 16277,
+    "label": "Water damage",
+    "value": "d-g-t-des-eaux",
+    "options": {
+      "type": "list"
+    },
+    "position": 120
+  },
+  {
+    "id": 16289,
+    "label": "Clogged dowel hole(s):",
+    "value": "trou-s-de-cheville-bouch-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 220
+  },
+  {
+    "id": 15786,
+    "label": "Tap leak",
+    "value": "fuite-robinet",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 15795,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 16612,
+    "label": "Poorly fixed",
+    "value": "mal-fix-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 15071,
+    "label": "Cat flap",
+    "value": "chati-re",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 3675,
+    "label": "Break-in",
+    "value": "effraction",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 3077,
+    "label": "Shard(s) number:",
+    "value": "eclat-s-nbre",
+    "options": {
+      "type": "list"
+    },
+    "position": 800
+  },
+  {
+    "id": 15093,
+    "label": "PVC",
+    "value": "pvc",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 3814,
+    "label": "Rayure(s)",
+    "value": "rayure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 900
+  },
+  {
+    "id": 4011,
+    "label": "Me split glazing(s) (surface):",
+    "value": "vitrage-s-me-fendu-s-surface",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 11553,
+    "label": "Poorly placed",
+    "value": "mal-pos-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 1600
+  },
+  {
+    "id": 958,
+    "label": "Broken(s)",
+    "value": "cass-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 3636,
+    "label": "Leaf(s) removed",
+    "value": "vantail-aux-depose-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2100
+  },
+  {
+    "id": 2616,
+    "label": "Unsealed slab(s)",
+    "value": "dalle-s-descell-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 15684,
+    "label": "Poorly fixed",
+    "value": "mal-fix-es",
+    "options": {
+      "type": "list"
+    },
+    "position": 800
+  },
+  {
+    "id": 15940,
+    "label": "Broken cord(s)",
+    "value": "cordon-s-rompu-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 7
+  },
+  {
+    "id": 3591,
+    "label": "Ankle hole(s):",
+    "value": "trou-s-de-cheville",
+    "options": {
+      "type": "list"
+    },
+    "position": 900
+  },
+  {
+    "id": 11636,
+    "label": "Unglued",
+    "value": "d-coll-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 4103,
+    "label": ".",
+    "value": "",
+    "options": {
+      "type": "list"
+    },
+    "position": 700
+  },
+  {
+    "id": 3646,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 3641,
+    "label": "Wrongly adjusted gate(s)",
+    "value": "portillon-s-mal-regle-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 1573,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 3645,
+    "label": "Number of shine(s):",
+    "value": "eclat-s-nbre",
+    "options": {
+      "type": "list"
+    },
+    "position": 700
+  },
+  {
+    "id": 11883,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 6
+  },
+  {
+    "id": 4047,
+    "label": "Bois",
+    "value": "bois",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 16318,
+    "label": "Poorly fixed",
+    "value": "mal-fix-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 15692,
+    "label": "Missing DCL sheet(s)",
+    "value": "fiche-s-dcl-manquante-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 700
+  },
+  {
+    "id": 11858,
+    "label": "Missing (m²):",
+    "value": "manquante-m",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "filtered_values": [
+      1642,
+      11589,
+      11591,
+      11593,
+      11595,
+      11596,
+      11597,
+      11601,
+      11603,
+      11604,
+      11605,
+      11606,
+      11608,
+      11609,
+      11610,
+      11611,
+      11612,
+      11613,
+      11615,
+      11616
+    ],
+    "id": 11630,
+    "label": "Lambris PVC",
+    "value": "lambris-pvc",
+    "options": {
+      "type": "list"
+    },
+    "position": 700
+  },
+  {
+    "id": 15628,
+    "label": "Paint stain(s)",
+    "value": "tache-s-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 800
+  },
+  {
+    "id": 4017,
+    "label": "Rust",
+    "value": "rouille",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 3976,
+    "label": "ME handle(s) broken",
+    "value": "poign-e-s-me-cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1400
+  },
+  {
+    "id": 3631,
+    "label": "Rayure(s)",
+    "value": "rayure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1600
+  },
+  {
+    "id": 3083,
+    "label": "Poorly placed",
+    "value": "mal-pose-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 1400
+  },
+  {
+    "id": 1621,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 16342,
+    "label": "ME plate(s) broken",
+    "value": "plaque-s-me-cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 6
+  },
+  {
+    "id": 1550,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 11775,
+    "label": "Depression(s)",
+    "value": "enfoncement-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 10939,
+    "label": "Metal",
+    "value": "m-tal",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "filtered_values": [
+      1906,
+      15715,
+      15716,
+      15717,
+      15647,
+      15719,
+      15720
+    ],
+    "id": 15829,
+    "label": "Targette",
+    "value": "targette",
+    "options": {
+      "type": "list"
+    },
+    "position": 111
+  },
+  {
+    "id": 2652,
+    "label": "Clogged dowel hole(s):",
+    "value": "trou-s-de-cheville-bouch-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 15047,
+    "label": "Deposited",
+    "value": "d-pos-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 15871,
+    "label": "Globe(s) PVC",
+    "value": "globe-s-pvc",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 3828,
+    "label": "Adhesive hook(s):",
+    "value": "crochet-s-adh-sif-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 4067,
+    "label": "Double(s)",
+    "value": "double-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 4029,
+    "label": "Paint",
+    "value": "peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 3881,
+    "label": "Poorly painted",
+    "value": "mal-peint",
+    "options": {
+      "type": "list"
+    },
+    "position": 1500
+  },
+  {
+    "id": 11681,
+    "label": "Poorly fixed",
+    "value": "mal-fix-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 11665,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 11737,
+    "label": "Energy saving bulb(s)",
+    "value": "ampoule-s-conomie-d-nergie",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 3554,
+    "label": "Poorly fixed",
+    "value": "mal-fixe-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 10024,
+    "label": "3 drawers",
+    "value": "3-tiroirs",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 3874,
+    "label": "Adhesive hook(s):",
+    "value": "crochet-s-adh-sif-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 2724,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 10021,
+    "label": "Gate(s) Number:",
+    "value": "portillon-s-nbre",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 15458,
+    "label": "Rude",
+    "value": "grossier",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 168,
+    "label": "Broken",
+    "value": "cass-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 1852,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 1392,
+    "label": "Painted",
+    "value": "peinte",
+    "options": {
+      "type": "list"
+    },
+    "position": 80
+  },
+  {
+    "id": 114,
+    "label": "Indelible stain(s)",
+    "value": "tache-s-indelebile-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 6
+  },
+  {
+    "id": 108,
+    "label": "Earthenware",
+    "value": "faienc-",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 1987,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 9427,
+    "label": "Clapper(s)",
+    "value": "battant-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 9432,
+    "label": "Bois",
+    "value": "bois",
+    "options": {
+      "type": "list"
+    },
+    "position": 800
+  },
+  {
+    "id": 11794,
+    "label": "ME handle(s) broken",
+    "value": "poign-e-s-me-cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1300
+  },
+  {
+    "id": 16596,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 40
+  },
+  {
+    "filtered_values": [
+      1906,
+      15715,
+      15716,
+      15717,
+      15719,
+      15720
+    ],
+    "id": 15826,
+    "label": "With key",
+    "value": "avec-cl",
+    "options": {
+      "type": "list"
+    },
+    "position": 111
+  },
+  {
+    "filtered_values": [
+      1906,
+      15715,
+      15716,
+      15717,
+      15719,
+      15720
+    ],
+    "id": 15827,
+    "label": "Keyless",
+    "value": "sans-cl",
+    "options": {
+      "type": "list"
+    },
+    "position": 111
+  },
+  {
+    "id": 12084,
+    "label": "Uncut side(s) (ml):",
+    "value": "face-s-non-taill-e-s-ml",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 4069,
+    "label": ".",
+    "value": "",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 3836,
+    "label": "Mold(s)",
+    "value": "moisissure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1600
+  },
+  {
+    "id": 11690,
+    "label": "Marque(s) cutter",
+    "value": "marque-s-cutter",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 4074,
+    "label": "With canisses (ml):",
+    "value": "avec-canisses-ml",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 11694,
+    "label": "Painted",
+    "value": "peinte-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 3273,
+    "label": "Missing tile(s)",
+    "value": "carreau-x-absent-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 4453,
+    "label": "Resin (acrylic)",
+    "value": "r-sine-acrylique",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 4455,
+    "label": "1 bac",
+    "value": "1-bac",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 16017,
+    "label": "Mixer",
+    "value": "mitigeur",
+    "options": {
+      "type": "list"
+    },
+    "position": 20
+  },
+  {
+    "id": 4475,
+    "label": "Missing Base",
+    "value": "socle-manquant",
+    "options": {
+      "type": "list"
+    },
+    "position": 1500
+  },
+  {
+    "id": 3041,
+    "label": "Tap leak",
+    "value": "fuite-robinetterie",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 161,
+    "label": "Leak (joint)",
+    "value": "fuite-joint",
+    "options": {
+      "type": "list"
+    },
+    "position": 40
+  },
+  {
+    "id": 10345,
+    "label": "Plastic joint cover",
+    "value": "couvre-joint-plastique",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 150,
+    "label": "Poorly adjusted",
+    "value": "mal-regl-es",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 13628,
+    "label": "Cut(s)",
+    "value": "coupure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 8
+  },
+  {
+    "id": 13624,
+    "label": "Wrongly adjusted gate(s)",
+    "value": "portillon-s-mal-r-gl-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 15603,
+    "label": "Champ(s) absent(s)",
+    "value": "champ-s-absent-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 13771,
+    "label": "Drawer(s) Number:",
+    "value": "tiroir-s-nbre",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 9378,
+    "label": "Painted wood",
+    "value": "bois-peint",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 16360,
+    "label": "Poorly fixed",
+    "value": "mal-fix-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 16314,
+    "label": "Poorly painted",
+    "value": "mal-peint",
+    "options": {
+      "type": "list"
+    },
+    "position": 1200
+  },
+  {
+    "id": 16513,
+    "label": "Pique(s)",
+    "value": "piqu-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 1703,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 16760,
+    "label": "Painted",
+    "value": "peinte",
+    "options": {
+      "type": "list"
+    },
+    "position": 50
+  },
+  {
+    "id": 3519,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 11773,
+    "label": "Poorly painted",
+    "value": "mal-peint",
+    "options": {
+      "type": "list"
+    },
+    "position": 1200
+  },
+  {
+    "id": 15817,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 15873,
+    "label": "Rampe(s) de spots",
+    "value": "rampe-s-de-spots",
+    "options": {
+      "type": "list"
+    },
+    "position": 800
+  },
+  {
+    "id": 2638,
+    "label": "Slumped",
+    "value": "affaiss-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 2642,
+    "label": "Ecaille(s)",
+    "value": "ecaille-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 2655,
+    "label": "Ecaille(s)",
+    "value": "ecaille-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 2668,
+    "label": "Ecaille(s)",
+    "value": "ecaille-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 4065,
+    "label": "With key(s)",
+    "value": "avec-cl-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 3982,
+    "label": "Scratched glass(es)",
+    "value": "vitrage-s-ray-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 11776,
+    "label": "Rub(s)",
+    "value": "frotte-nt",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 4481,
+    "label": "3 gates",
+    "value": "3-portillons",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 4528,
+    "label": "Poorly blocked ankle hole(s):)",
+    "value": "trou-s-de-cheville-s-mal-bouch-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 4305,
+    "label": "Faucet stuck",
+    "value": "robinet-gripp",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 12317,
+    "label": "Missing wheel(s)",
+    "value": "molette-s-absente-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 12347,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 12370,
+    "label": "Robinet(s) simple(s)",
+    "value": "robinet-s-simple-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 16027,
+    "label": "Rust",
+    "value": "rouill",
+    "options": {
+      "type": "list"
+    },
+    "position": 8
+  },
+  {
+    "id": 3201,
+    "label": "NEFF",
+    "value": "NEFF",
+    "options": {
+      "type": "number"
+    },
+    "position": 190
+  },
+  {
+    "id": 3338,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 10220,
+    "label": "IKEA",
+    "value": "ikea",
+    "options": {
+      "type": "list"
+    },
+    "position": 1100
+  },
+  {
+    "id": 10237,
+    "label": "BEKO",
+    "value": "beko",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 3139,
+    "label": "Ampoule(s) HS",
+    "value": "ampoule-s-hs",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 10307,
+    "label": "NEFF",
+    "value": "neff",
+    "options": {
+      "type": "list"
+    },
+    "position": 1500
+  },
+  {
+    "id": 3227,
+    "label": "Rust",
+    "value": "rouille",
+    "options": {
+      "type": "list"
+    },
+    "position": 1200
+  },
+  {
+    "id": 2799,
+    "label": "Torn tarpaulin",
+    "value": "b-che-d-chir-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 4354,
+    "label": "Reel blocked",
+    "value": "enrouleur-bloqu",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 2836,
+    "label": "Concrete",
+    "value": "b-ton",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 2815,
+    "label": "Untreated wood",
+    "value": "bois-non-trait",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 4431,
+    "label": "Drying rack on poles",
+    "value": "etendoir-sur-poteaux",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 1272,
+    "label": "Swollen",
+    "value": "gonfl",
+    "options": {
+      "type": "list"
+    },
+    "position": 90
+  },
+  {
+    "id": 10882,
+    "label": "Conviction",
+    "value": "condamnation",
+    "options": {
+      "type": "list"
+    },
+    "position": 111
+  },
+  {
+    "id": 1168,
+    "label": "2 portes",
+    "value": "2-portes",
+    "options": {
+      "type": "list"
+    },
+    "position": 20
+  },
+  {
+    "id": 1135,
+    "label": "Painted",
+    "value": "peint-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 120
+  },
+  {
+    "id": 1112,
+    "label": "Mirror(s)",
+    "value": "miroir-s-fendu-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 110
+  },
+  {
+    "id": 13507,
+    "label": "Animal scratch(es)",
+    "value": "griffure-s-animal",
+    "options": {
+      "type": "list"
+    },
+    "position": 12
+  },
+  {
+    "id": 13531,
+    "label": "Broken handle(s)",
+    "value": "poign-e-s-cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 13779,
+    "label": "Painted wood",
+    "value": "bois-peint",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 4518,
+    "label": "ME handle(s) broken",
+    "value": "poign-e-s-me-cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 13616,
+    "label": "Rust",
+    "value": "rouille",
+    "options": {
+      "type": "list"
+    },
+    "position": 17
+  },
+  {
+    "id": 13545,
+    "label": "Ecaille(s)",
+    "value": "ecaille-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 13796,
+    "label": "Melamine",
+    "value": "m-lamin",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 13798,
+    "label": "Glass tray",
+    "value": "plateau-verre",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 1787,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 13799,
+    "label": "Rattan",
+    "value": "rotin",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 3419,
+    "label": "Tear(s)",
+    "value": "dechirure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 14818,
+    "label": "Fabric",
+    "value": "tissu",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 14424,
+    "label": "Rust",
+    "value": "rouille",
+    "options": {
+      "type": "list"
+    },
+    "position": 7
+  },
+  {
+    "id": 3391,
+    "label": "Burn(s)",
+    "value": "brulure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 700
+  },
+  {
+    "id": 1430,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 14428,
+    "label": "Burn(s)",
+    "value": "br-lure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 2854,
+    "label": "Broken caster(s)",
+    "value": "roulette-s-cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 700
+  },
+  {
+    "id": 4526,
+    "label": "Dowel hole(s):",
+    "value": "trou-s-de-cheville-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 16031,
+    "label": "Porthole / ME door does not close",
+    "value": "hublot-porte-me-ne-ferme-pas",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 16029,
+    "label": "Bouton(s) absent(s)",
+    "value": "bouton-s-absent-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 10310,
+    "label": "BRANDT",
+    "value": "brandt",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 3168,
+    "label": "Sticker(s)",
+    "value": "autocollant-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 10196,
+    "label": "4 lights",
+    "value": "4-feux",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 2840,
+    "label": "Covered (NC)",
+    "value": "couverte-nc",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 2872,
+    "label": "Not secure",
+    "value": "non-s-curis-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 2876,
+    "label": "Bar(s) missing",
+    "value": "barre-s-absente-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 3624,
+    "label": "Broken ME blade(s) Number:",
+    "value": "lame-s-me-cassee-s-nbre",
+    "options": {
+      "type": "list"
+    },
+    "position": 900
+  },
+  {
+    "id": 3378,
+    "label": "Bouton(s) absent(s)",
+    "value": "bouton-s-absent-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 3409,
+    "label": "Gnawed(s)",
+    "value": "rongee-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1300
+  },
+  {
+    "id": 14572,
+    "label": "Broken(s)",
+    "value": "cass-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 14696,
+    "label": "Broken(s)",
+    "value": "cass-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 1516,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 14795,
+    "label": "Broken(s)",
+    "value": "cass-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 2745,
+    "label": "Nozzle(s) missing",
+    "value": "buse-s-absente-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 14618,
+    "label": "Rusty(s)",
+    "value": "rouill-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 14707,
+    "label": "Tache(s)",
+    "value": "tache-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 7
+  },
+  {
+    "id": 14726,
+    "label": "Burn(s)",
+    "value": "br-lure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 13632,
+    "label": "Impact(s)",
+    "value": "impact-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 13
+  },
+  {
+    "id": 14513,
+    "label": "Frayed",
+    "value": "effiloch-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 1501,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 14655,
+    "label": "Burnt handle(s)",
+    "value": "poign-e-s-br-l-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 14630,
+    "label": "Tordu(s)",
+    "value": "tordu-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 14582,
+    "label": "Tache(s)",
+    "value": "tache-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 14591,
+    "label": "Stained cover",
+    "value": "housse-tach-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 14615,
+    "label": "Tache(s)",
+    "value": "tache-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 9
+  },
+  {
+    "id": 14801,
+    "label": "Metal",
+    "value": "m-tal",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 3438,
+    "label": "Broken light",
+    "value": "temoin-casse",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 13691,
+    "label": "Ecaille(s)",
+    "value": "ecaille-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 8
+  },
+  {
+    "id": 1268,
+    "label": "Detached field(s)",
+    "value": "champ-s-d-coll-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 20
+  },
+  {
+    "id": 1510,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 14569,
+    "label": "Burn(s)",
+    "value": "br-lure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 3413,
+    "label": "Animal scratch(es)",
+    "value": "griffure-s-animal",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 14665,
+    "label": "Tordu(s)",
+    "value": "tordu-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 3335,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 30,
+    "label": "Doors)",
+    "value": "porte-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 39,
+    "label": "Sliding",
+    "value": "coulissante",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 57,
+    "label": "Water damage",
+    "value": "d-g-t-des-eaux",
+    "options": {
+      "type": "list"
+    },
+    "position": 8
+  },
+  {
+    "id": 61,
+    "label": "Stained floor",
+    "value": "sol-tach",
+    "options": {
+      "type": "list"
+    },
+    "position": 7
+  },
+  {
+    "id": 65,
+    "label": "Break-in",
+    "value": "effraction",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 70,
+    "label": "Lock(s)",
+    "value": "verrou-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 4266,
+    "label": "Cut(s)",
+    "value": "taill-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 4268,
+    "label": "Cut(s)",
+    "value": "taill-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 2516,
+    "label": "Water damage",
+    "value": "d-g-t-des-eaux",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 4173,
+    "label": "Missing joint cover(s)",
+    "value": "couvre-joint-s-manquant-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 4166,
+    "label": "Structural crack(s)",
+    "value": "fissure-s-structurelle-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 2572,
+    "label": "Ecaille(s)",
+    "value": "ecaille-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 2617,
+    "label": "ME tile(s) broken",
+    "value": "dalle-s-me-cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 2609,
+    "label": "Mole hole(s)",
+    "value": "trou-s-de-taupe",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 11594,
+    "label": "Snag(s)",
+    "value": "accroc-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 11611,
+    "label": "Blackened",
+    "value": "noirci",
+    "options": {
+      "type": "list"
+    },
+    "position": 2300
+  },
+  {
+    "filtered_values": [
+      1583,
+      11635,
+      11636,
+      11637,
+      11634,
+      11633,
+      11645,
+      11646,
+      11638,
+      11648,
+      11647
+    ],
+    "id": 11654,
+    "label": "Plastic (PVC)",
+    "value": "plastique-pvc",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 11640,
+    "label": "Poorly painted",
+    "value": "mal-peintes",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "filtered_values": [
+      11552,
+      11567,
+      11570,
+      11564,
+      11558,
+      11557,
+      11560,
+      11565,
+      11555,
+      11569,
+      11562,
+      11554,
+      11571,
+      11553,
+      11563,
+      11550,
+      11561,
+      11566,
+      11568,
+      11556,
+      11551,
+      11559,
+      1539
+    ],
+    "id": 11573,
+    "label": "Laminate flooring",
+    "value": "parquet-stratifi",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "filtered_values": [
+      11497,
+      11491,
+      11492,
+      11478,
+      11490,
+      11496,
+      11485,
+      11471,
+      11479,
+      11483,
+      11477,
+      11476,
+      11489,
+      11488,
+      11480,
+      11481,
+      11469,
+      11486,
+      11474,
+      11493,
+      11495,
+      11475,
+      11487,
+      11484,
+      11482,
+      11473,
+      1529
+    ],
+    "id": 11506,
+    "label": "Painted woodchip paper",
+    "value": "papier-ingrain-peint",
+    "options": {
+      "type": "list"
+    },
+    "position": 1300
+  },
+  {
+    "id": 16288,
+    "label": "Poorly blocked ankle hole(s):",
+    "value": "trou-s-de-cheville-mal-bouch-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 230
+  },
+  {
+    "id": 11484,
+    "label": "Detachment(s)",
+    "value": "d-collement",
+    "options": {
+      "type": "list"
+    },
+    "position": 1100
+  },
+  {
+    "id": 16599,
+    "label": "Forced",
+    "value": "forc-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 9179,
+    "label": "linoleum",
+    "value": "linol-um",
+    "options": {
+      "type": "list"
+    },
+    "position": 40
+  },
+  {
+    "id": 15807,
+    "label": "Painted",
+    "value": "peint-es",
+    "options": {
+      "type": "list"
+    },
+    "position": 900
+  },
+  {
+    "id": 3913,
+    "label": "Unsealed",
+    "value": "descell-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 4037,
+    "label": "Metal",
+    "value": "m-tal",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 3697,
+    "label": "Painted",
+    "value": "peinte",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 3770,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 1100
+  },
+  {
+    "id": 3764,
+    "label": "Missing plate(s)",
+    "value": "plaque-s-manquante-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 1659,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 2582,
+    "label": "Blade(s) missing",
+    "value": "lame-s-absente-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 46,
+    "label": "Bidet",
+    "value": "bidet",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 1415,
+    "label": "Garbage room",
+    "value": "local-poubelle",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 4188,
+    "label": "Missing tile(s)",
+    "value": "tuile-s-manquante-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 2503,
+    "label": "Poorly fixed",
+    "value": "mal-fix-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 3989,
+    "label": "Ecaille(s)",
+    "value": "ecaille-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 15088,
+    "label": "Metal",
+    "value": "m-tal",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 3628,
+    "label": "Handle(s) missing",
+    "value": "poignee-s-absente-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1300
+  },
+  {
+    "id": 15699,
+    "label": "Poorly attached plate(s)",
+    "value": "plaque-s-mal-fix-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 15701,
+    "label": "Painted ME plate(s)",
+    "value": "plaque-s-me-peinte-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 7
+  },
+  {
+    "id": 15712,
+    "label": "Painted",
+    "value": "peint-es",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 11925,
+    "label": "Adhesive hook(s):",
+    "value": "crochet-s-adh-sif-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 15783,
+    "label": "Mold(s)",
+    "value": "moisissure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 3936,
+    "label": "Dowel hole(s):",
+    "value": "trou-s-de-cheville-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 3692,
+    "label": "Me split glazing(s) (surface):",
+    "value": "vitrage-s-me-fendu-s-surface",
+    "options": {
+      "type": "list"
+    },
+    "position": 1800
+  },
+  {
+    "id": 15082,
+    "label": "Sliding",
+    "value": "coulissante",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 3742,
+    "label": "Hinge(s) ME broken",
+    "value": "gond-s-me-cass-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 12086,
+    "label": "Varnished wood",
+    "value": "bois-vernis",
+    "options": {
+      "type": "list"
+    },
+    "position": 20
+  },
+  {
+    "id": 15751,
+    "label": "Striped",
+    "value": "ray-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 15906,
+    "label": "Manuel(s)",
+    "value": "manuel-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 3752,
+    "label": "Rayure(s)",
+    "value": "rayure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 3785,
+    "label": "Poorly fixed",
+    "value": "mal-fix-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 3942,
+    "label": "Mechanism(s) seized",
+    "value": "m-canisme-s-gripp-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1700
+  },
+  {
+    "id": 3817,
+    "label": "ME plate(s) broken",
+    "value": "plaque-s-me-cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 4126,
+    "label": "Remote control(s)",
+    "value": "t-l-commande-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 1242,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 50
+  },
+  {
+    "id": 15769,
+    "label": "Mastic(s) ME grossier(s)",
+    "value": "mastic-s-me-grossier-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 11
+  },
+  {
+    "id": 15876,
+    "label": "With canisses (ml):",
+    "value": "avec-canisses-ml",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 15649,
+    "label": "Not compliant(s) (HN)",
+    "value": "non-conforme-s-hn",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 15683,
+    "label": "Bare wire(s)",
+    "value": "fil-s-nu",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 10,
+    "label": "Bidet",
+    "value": "bidet",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 15932,
+    "label": "Blocked",
+    "value": "bloqu-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 15976,
+    "label": "Torn(s)",
+    "value": "d-chir-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 1407,
+    "label": "Painted",
+    "value": "peinte-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 3695,
+    "label": "Forced",
+    "value": "forc-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 3586,
+    "label": "Structural crack(s)",
+    "value": "fissure-s-structurelle-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 11591,
+    "label": "Tache(s)",
+    "value": "tache-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "filtered_values": [
+      11570,
+      11557,
+      11565,
+      11562,
+      11550,
+      11564,
+      11560,
+      11553,
+      11568,
+      11561,
+      11566,
+      11556,
+      1539
+    ],
+    "id": 9870,
+    "label": "Tiling",
+    "value": "carrelage",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 3082,
+    "label": "Badly painted",
+    "value": "mal-peint-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 1300
+  },
+  {
+    "id": 1230,
+    "label": "Deposited",
+    "value": "d-pos-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 1225,
+    "label": "Deposited",
+    "value": "d-pos-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 15435,
+    "label": "Taken off",
+    "value": "d-coll-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 11644,
+    "label": "Number of shine(s):",
+    "value": "eclat-s-nbre",
+    "options": {
+      "type": "list"
+    },
+    "position": 800
+  },
+  {
+    "id": 23,
+    "label": "Lock",
+    "value": "serrure",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "filtered_values": [
+      1539,
+      11565,
+      11562,
+      11550,
+      11552,
+      11567,
+      11560,
+      11566,
+      11568,
+      11556,
+      11561
+    ],
+    "id": 9878,
+    "label": "Dirty Floor",
+    "value": "sol-brut",
+    "options": {
+      "type": "list"
+    },
+    "position": 1100
+  },
+  {
+    "id": 3639,
+    "label": "Ecaille(s)",
+    "value": "ecaille-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 16354,
+    "label": "Painted",
+    "value": "peint-es",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 1700,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 14991,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 15883,
+    "label": "Energy saving bulb(s)",
+    "value": "ampoule-s-conomie-d-nergie",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "filtered_values": [
+      1642,
+      11585,
+      11587,
+      11589,
+      11591,
+      11593,
+      11596,
+      11597,
+      11601,
+      11604,
+      11605,
+      11606,
+      11607,
+      11609,
+      11610,
+      11611,
+      11612,
+      11613,
+      11615,
+      11616
+    ],
+    "id": 11617,
+    "label": "Paint",
+    "value": "peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 16296,
+    "label": "Rusty(s)",
+    "value": "rouill-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 800
+  },
+  {
+    "id": 11076,
+    "label": "grease",
+    "value": "gr-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 10
+  },
+  {
+    "id": 103,
+    "label": "Painted",
+    "value": "peinte-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 700
+  },
+  {
+    "id": 3969,
+    "label": "Poorly painted",
+    "value": "mal-peint",
+    "options": {
+      "type": "list"
+    },
+    "position": 1100
+  },
+  {
+    "id": 15830,
+    "label": "Simple(s)",
+    "value": "simple-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 16457,
+    "label": "Sticker(s)",
+    "value": "autocollant-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 6
+  },
+  {
+    "id": 3080,
+    "label": "Joint(s) absent(s)",
+    "value": "joint-s-manquant-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1100
+  },
+  {
+    "id": 1600,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 15046,
+    "label": "Torn(s)",
+    "value": "d-chir-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 11772,
+    "label": "Exploded doorframe",
+    "value": "huisserie-clat-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 1100
+  },
+  {
+    "id": 9426,
+    "label": "Accordion",
+    "value": "accord-on",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 3287,
+    "label": "Broken(s)",
+    "value": "casse-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 16608,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 16580,
+    "label": "Painted ME plate(s)",
+    "value": "plaque-s-me-peinte-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 12099,
+    "label": "With key(s)",
+    "value": "avec-cl-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 114
+  },
+  {
+    "id": 3346,
+    "label": "Bite(s)",
+    "value": "bouchee-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 15715,
+    "label": "Hook",
+    "value": "accroche",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 15942,
+    "label": "Blocked",
+    "value": "bloqu-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 4014,
+    "label": "Twisted",
+    "value": "tordu",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 3946,
+    "label": "Missing joint cover(s)",
+    "value": "couvre-joint-s-manquant-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 3891,
+    "label": "ME air inlet(s) broken",
+    "value": "entr-e-s-d-air-me-cass-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 3888,
+    "label": "Frame/doorframe",
+    "value": "cadre-huisserie",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 3890,
+    "label": "Clogged ME air inlet(s)",
+    "value": "entr-e-s-d-air-me-bouch-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 900
+  },
+  {
+    "id": 11666,
+    "label": "Marque(s) cutter",
+    "value": "marque-s-cutter",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 11700,
+    "label": "Painted",
+    "value": "peint-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 6
+  },
+  {
+    "id": 11664,
+    "label": "Painted",
+    "value": "peinte-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 11679,
+    "label": "Missing cache(s)",
+    "value": "cache-s-manquant-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 6
+  },
+  {
+    "id": 167,
+    "label": "Hanging Tache(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 16006,
+    "label": "Mixer",
+    "value": "mitigeur",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 11707,
+    "label": "Missing DCL sheet(s)",
+    "value": "fiche-s-dcl-manquante-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 8
+  },
+  {
+    "id": 3545,
+    "label": "Burn(s)",
+    "value": "brulure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 15471,
+    "label": "Bung(s) with missing grid(s)",
+    "value": "bonde-s-grille-absente-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 1390,
+    "label": "Striped",
+    "value": "ray-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 40
+  },
+  {
+    "id": 10335,
+    "label": "understood",
+    "value": "sabot",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 3566,
+    "label": "Not waterproof",
+    "value": "non-etanche",
+    "options": {
+      "type": "list"
+    },
+    "position": 600
+  },
+  {
+    "id": 173,
+    "label": "Poorly fixed",
+    "value": "mal-fix-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 40
+  },
+  {
+    "id": 15723,
+    "label": "Poorly fixed",
+    "value": "mal-fix-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 112,
+    "label": "Paint stain(s)",
+    "value": "tache-s-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 16009,
+    "label": "Bell grid",
+    "value": "grille-cloche",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 1698,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 16308,
+    "label": "Rayure(s)",
+    "value": "rayure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1400
+  },
+  {
+    "id": 16745,
+    "label": "Ankle hole(s):",
+    "value": "trou-s-de-cheville",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 12200,
+    "label": "PVC",
+    "value": "pvc",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 3288,
+    "label": "Striped",
+    "value": "raye-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 3827,
+    "label": "Blocked by paint",
+    "value": "bloqu-e-s-par-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 11713,
+    "label": "Missing wire cover(s)",
+    "value": "cache-s-fils-manquant-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 6
+  },
+  {
+    "id": 9998,
+    "label": "grease",
+    "value": "gr-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 3330,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 3272,
+    "label": "Worn varnish",
+    "value": "vernis-use",
+    "options": {
+      "type": "list"
+    },
+    "position": 500
+  },
+  {
+    "id": 3040,
+    "label": "Inverter leak",
+    "value": "fuite-inverseur",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 3333,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 4450,
+    "label": "Enamel coating",
+    "value": "revetement-mail",
+    "options": {
+      "type": "list"
+    },
+    "position": 200
+  },
+  {
+    "id": 10382,
+    "label": "Tiled",
+    "value": "carrel",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 1985,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 118,
+    "label": "Coarse",
+    "value": "grossier-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 300
+  },
+  {
+    "id": 119,
+    "label": "Moldy",
+    "value": "moisi-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 1984,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 16003,
+    "label": "Cement",
+    "value": "ciment",
+    "options": {
+      "type": "list"
+    },
+    "position": 20
+  },
+  {
+    "id": 133,
+    "label": "Valve(s) missing",
+    "value": "clapet-s-absent-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 190,
+    "label": "Moses",
+    "value": "moisi",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 187,
+    "label": "Tear(s)",
+    "value": "d-chirure-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 1778,
+    "label": "Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 146,
+    "label": "Grid missing",
+    "value": "grille-absente",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 4510,
+    "label": "Dowel hole(s):",
+    "value": "trou-s-de-cheville-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1000
+  },
+  {
+    "id": 3250,
+    "label": "ME handle(s) broken",
+    "value": "poignee-s-me-cassee-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 1300
+  },
+  {
+    "id": 16533,
+    "label": "Clogged dowel hole(s):",
+    "value": "trou-s-de-cheville-bouch-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 100
+  },
+  {
+    "id": 15954,
+    "label": "Torn(s)",
+    "value": "d-chir-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 16332,
+    "label": "Handle(s) poorly secured",
+    "value": "poign-e-s-mal-fix-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 11793,
+    "label": "Paint stain(s)",
+    "value": "tache-s-de-peinture",
+    "options": {
+      "type": "list"
+    },
+    "position": 1500
+  },
+  {
+    "id": 16349,
+    "label": "Bent handle(s)",
+    "value": "poign-e-s-tordue-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 11
+  },
+  {
+    "id": 13470,
+    "label": "Glassed",
+    "value": "vitr-e",
+    "options": {
+      "type": "list"
+    },
+    "position": 400
+  },
+  {
+    "id": 16768,
+    "label": "Unglued",
+    "value": "d-coll-e-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  }
+]

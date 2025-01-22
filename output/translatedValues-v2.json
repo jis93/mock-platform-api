@@ -1,0 +1,88 @@
+[
+  {
+    "id": 31,
+    "label": "Radiation",
+    "value": "rayonnage-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 4
+  },
+  {
+    "id": 30,
+    "label": "Door(s)",
+    "value": "porte-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 5
+  },
+  {
+    "id": 1954,
+    "label": "Sauf = Except",
+    "value": "sauf",
+    "options": {
+      "type": "list"
+    },
+    "position": 0
+  },
+  {
+    "id": 15574,
+    "label": "Encombré",
+    "value": "cluttered",
+    "options": null,
+    "position": 2
+  },
+  {
+    "id": 29,
+    "label": "Shelves fixed on wall",
+    "value": "etag-re-s-fix-e-s-au-mur",
+    "options": {
+      "type": "list"
+    },
+    "position": 3
+  },
+  {
+    "id": 34,
+    "label": "Oil stain",
+    "value": "tache-s-d-huile",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 28,
+    "label": "Cardboard",
+    "value": "carton-s",
+    "options": {
+      "type": "list"
+    },
+    "position": 2
+  },
+  {
+    "id": 27,
+    "label": "Bidet \nEnglish: Bidet",
+    "value": "bidet",
+    "options": {
+      "type": "list"
+    },
+    "position": 1
+  },
+  {
+    "id": 33,
+    "label": "distressed soil",
+    "value": "sol-tach",
+    "options": {
+      "type": "list"
+    },
+    "position": 6
+  },
+  {
+    "id": 15573,
+    "label": "Not cleaned \nEnglish: Not cleaned -> \"Not cleaned\" \n Answer: Not cleaned",
+    "value": "uncleaned",
+    "options": null,
+    "position": 1
+  }
+]

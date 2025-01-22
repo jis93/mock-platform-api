@@ -146,13 +146,6 @@ const parseFiles = (componentsPath: string, componentTypesPath: string, outputPa
         }
     });
 
-    // console.log('rootComponents', rootComponents.map(c => {
-    //     return {
-    //         name: c.name,
-    //         children: c.children.map(child => child.name)
-    //     };
-    // }));
-
     // Step 2: Populate items for each containerTemplate by matching component_types
     const buildItemTemplate = (component: ComponentSchemaInterface): ItemTemplateSchemaInterface => ({
         id: component.id,
